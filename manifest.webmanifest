@@ -1,0 +1,17 @@
+{
+  "name": "TCAE Pro · Preparación SERGAS",
+  "short_name": "TCAE Pro",
+  "description": "Practica el examen TCAE del SERGAS: 166 preguntas reales, corrección al momento y repaso de fallos.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F7F6",
+  "theme_color": "#0E8A7A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
