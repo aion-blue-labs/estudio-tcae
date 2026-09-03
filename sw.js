@@ -1,4 +1,4 @@
-const CACHE = 'tcae-pro-v3';
+const CACHE = 'tcae-pro-v4';
 const ASSETS = [
   './',
   './index.html',
