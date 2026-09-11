@@ -1,4 +1,4 @@
-// Service worker da app TCAE. build_app.py substitui 20260908-1852 a cada build,
+// Service worker da app TCAE. build_app.py substitui 20260911-1631 a cada build,
 // por isso o nome da cache muda sempre que ha conteudo novo.
 //
 // Estrategia:
@@ -6,7 +6,7 @@
 //     a cache so entra em jogo offline). A v4 usava cache-first e por isso a
 //     PWA instalada ficou presa numa versao antiga com respostas erradas.
 //   * icones/manifest -> cache-first (nao mudam e sao pesados).
-const VERSION = '20260908-1852';
+const VERSION = '20260911-1631';
 const CACHE = 'tcae-' + VERSION;
 const ASSETS = [
   './',
