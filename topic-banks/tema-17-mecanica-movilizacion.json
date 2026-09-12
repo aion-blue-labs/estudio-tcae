@@ -1,0 +1,111 @@
+{
+  "tema_num": 17,
+  "tag": "MECÁNICA CORPORAL Y MOVILIZACIÓN · TEMA 17",
+  "tema_default": "movilizacion",
+  "fuentes": [
+    "Protocolos de movilización segura de pacientes y prevención de trastornos musculoesqueléticos",
+    "Manuales de cuidados auxiliares de enfermería"
+  ],
+  "facts": [
+    {
+      "term": "Base de sustentación amplia",
+      "definition": "Separar los pies y adelantar uno mejora el equilibrio durante una movilización o transferencia."
+    },
+    {
+      "term": "Centro de gravedad del profesional",
+      "definition": "Se mantiene estable acercándolo a la base de sustentación y evitando inclinaciones innecesarias."
+    },
+    {
+      "term": "Carga próxima al cuerpo",
+      "definition": "Reduce el brazo de palanca y disminuye el esfuerzo sobre la espalda."
+    },
+    {
+      "term": "Flexión de rodillas al movilizar",
+      "definition": "Permite utilizar la musculatura potente de las piernas manteniendo la espalda alineada."
+    },
+    {
+      "term": "Giro seguro del cuerpo",
+      "definition": "Debe hacerse pivotando con los pies y orientando todo el cuerpo, sin torsionar la columna con la carga."
+    },
+    {
+      "term": "Altura de trabajo de la cama",
+      "definition": "Debe ajustarse antes de la técnica para evitar flexiones mantenidas de tronco y después devolverse a una posición segura."
+    },
+    {
+      "term": "Ayudas técnicas de movilización",
+      "definition": "Sábanas deslizantes, tablas, grúas y cinturones reducen esfuerzo y riesgo cuando se seleccionan y usan correctamente."
+    },
+    {
+      "term": "Valoración previa a la transferencia",
+      "definition": "Debe considerar fuerza, equilibrio, comprensión, dolor, peso, dispositivos y grado de colaboración del paciente."
+    },
+    {
+      "term": "Posición de decúbito supino",
+      "definition": "El paciente está tumbado sobre la espalda con la cara hacia arriba."
+    },
+    {
+      "term": "Posición de decúbito prono",
+      "definition": "El paciente está tumbado sobre el abdomen con la cabeza girada o alineada según la situación."
+    },
+    {
+      "term": "Decúbito lateral",
+      "definition": "El paciente descansa sobre uno de sus lados, con alineación corporal y protección de prominencias óseas."
+    },
+    {
+      "term": "Posición de Fowler",
+      "definition": "Eleva el cabecero y coloca al paciente semisentado para facilitar respiración, alimentación y algunas exploraciones."
+    },
+    {
+      "term": "Posición de Sims",
+      "definition": "Es una posición semiprona, habitualmente sobre el lado izquierdo, útil para enemas y exploración rectal."
+    },
+    {
+      "term": "Posición de Trendelenburg",
+      "definition": "Inclina todo el cuerpo con la cabeza más baja que los pies, cuando existe indicación y no hay contraindicación."
+    },
+    {
+      "term": "Posición antitrendelenburg",
+      "definition": "Inclina el cuerpo con la cabeza por encima de los pies manteniendo el plano corporal."
+    },
+    {
+      "term": "Posición de litotomía",
+      "definition": "Coloca al paciente en supino con caderas y rodillas flexionadas y piernas apoyadas en perneras."
+    },
+    {
+      "term": "Posición genupectoral",
+      "definition": "Apoya rodillas y tórax, dejando la pelvis elevada para determinadas exploraciones."
+    },
+    {
+      "term": "Transferencia de cama a silla",
+      "definition": "Exige frenar ambos elementos, retirar obstáculos, colocar calzado seguro y coordinar la maniobra con el paciente."
+    },
+    {
+      "term": "Reposapiés de la silla de ruedas",
+      "definition": "Deben apartarse durante la transferencia y recolocarse después para evitar tropiezos y lesiones."
+    },
+    {
+      "term": "Sábana entremetida de movilización",
+      "definition": "Permite desplazar al paciente entre varios profesionales reduciendo fricción y evitando tirar de brazos o piernas."
+    },
+    {
+      "term": "Giro en bloque",
+      "definition": "Mueve cabeza, tronco y pelvis alineados como una unidad cuando debe evitarse la rotación vertebral."
+    },
+    {
+      "term": "Grúa de transferencia",
+      "definition": "Se usa con arnés adecuado, comprobación del equipo y personal entrenado cuando la movilización manual no es segura."
+    },
+    {
+      "term": "Inicio de la deambulación",
+      "definition": "Debe ser progresivo, comprobando tolerancia al sentarse y ponerse de pie antes de comenzar a caminar."
+    },
+    {
+      "term": "Bastón en una hemiparesia",
+      "definition": "Se lleva habitualmente en el lado contrario al miembro inferior afectado para ampliar apoyo y estabilidad."
+    },
+    {
+      "term": "Mareo durante la movilización",
+      "definition": "Obliga a detener la marcha, asegurar al paciente, sentarlo o tumbarlo y valorar o comunicar la situación."
+    }
+  ]
+}

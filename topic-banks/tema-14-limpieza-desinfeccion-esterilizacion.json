@@ -1,0 +1,111 @@
+{
+  "tema_num": 14,
+  "tag": "LIMPIEZA, DESINFECCIÓN Y ESTERILIZACIÓN · TEMA 14",
+  "tema_default": "infeccion",
+  "fuentes": [
+    "Recomendaciones de la OMS y del Ministerio de Sanidad sobre reprocesamiento de productos sanitarios",
+    "Normas UNE-EN y protocolos hospitalarios de esterilización aplicables"
+  ],
+  "facts": [
+    {
+      "term": "Limpieza del material sanitario",
+      "definition": "Elimina suciedad y materia orgánica mediante agua, detergente y acción mecánica, y siempre precede a la desinfección o esterilización."
+    },
+    {
+      "term": "Detergente enzimático",
+      "definition": "Facilita la eliminación de proteínas y otros restos orgánicos cuando se usa a la concentración, temperatura y tiempo indicados."
+    },
+    {
+      "term": "Limpieza manual del instrumental",
+      "definition": "Se realiza con protección, instrumental abierto o desmontado y fricción bajo la superficie del agua para reducir salpicaduras y aerosoles."
+    },
+    {
+      "term": "Limpieza por ultrasonidos",
+      "definition": "Utiliza cavitación para desprender suciedad de articulaciones, ranuras y piezas pequeñas sin sustituir el aclarado y secado posteriores."
+    },
+    {
+      "term": "Lavadora termodesinfectadora",
+      "definition": "Automatiza fases de lavado, aclarado y desinfección térmica con parámetros controlados y reproducibles."
+    },
+    {
+      "term": "Secado del instrumental",
+      "definition": "Debe ser completo antes del empaquetado porque la humedad favorece corrosión y puede comprometer el proceso de esterilización."
+    },
+    {
+      "term": "Antiséptico",
+      "definition": "Es un agente químico destinado a reducir microorganismos en piel o tejidos vivos."
+    },
+    {
+      "term": "Desinfectante",
+      "definition": "Es un agente aplicado a objetos y superficies inanimadas para destruir o inactivar microorganismos, sin garantizar siempre la eliminación de esporas."
+    },
+    {
+      "term": "Desinfección de alto nivel",
+      "definition": "Inactiva todos los microorganismos salvo, en determinadas condiciones, un número elevado de esporas bacterianas."
+    },
+    {
+      "term": "Material crítico según Spaulding",
+      "definition": "Penetra en tejido estéril o sistema vascular y debe utilizarse estéril."
+    },
+    {
+      "term": "Material semicrítico según Spaulding",
+      "definition": "Contacta con mucosas o piel no intacta y requiere al menos desinfección de alto nivel, salvo indicación de esterilización."
+    },
+    {
+      "term": "Material no crítico según Spaulding",
+      "definition": "Solo contacta con piel intacta y suele requerir limpieza y desinfección de bajo o intermedio nivel según el riesgo."
+    },
+    {
+      "term": "Esterilización",
+      "definition": "Es el proceso validado que destruye o elimina todas las formas viables de microorganismos, incluidas las esporas."
+    },
+    {
+      "term": "Autoclave",
+      "definition": "Esteriliza mediante vapor de agua saturado a presión y es el método de elección para material compatible con calor y humedad."
+    },
+    {
+      "term": "Ciclo de vapor a 134 °C",
+      "definition": "Es un ciclo habitual de alta temperatura cuya duración y condiciones exactas dependen del equipo, la carga y el protocolo validado."
+    },
+    {
+      "term": "Calor seco",
+      "definition": "Esteriliza por aire caliente durante más tiempo y a mayor temperatura que el vapor, para material compatible como ciertos vidrios y metales."
+    },
+    {
+      "term": "Óxido de etileno",
+      "definition": "Es un gas esterilizante de baja temperatura para material termosensible compatible y requiere estrictas medidas de seguridad y aireación."
+    },
+    {
+      "term": "Plasma de peróxido de hidrógeno",
+      "definition": "Es un método de baja temperatura para material termosensible compatible, con limitaciones para líquidos, celulosa y determinados lúmenes."
+    },
+    {
+      "term": "Ópticas y endoscopios termosensibles",
+      "definition": "Deben reprocesarse con el método de baja temperatura autorizado por el fabricante y por el protocolo, sin asumir que todos toleran el mismo sistema."
+    },
+    {
+      "term": "Empaquetado para esterilización",
+      "definition": "Debe permitir la entrada y salida del agente esterilizante y mantener la barrera estéril hasta el uso."
+    },
+    {
+      "term": "Control físico del esterilizador",
+      "definition": "Registra parámetros del ciclo como tiempo, temperatura, presión o concentración mediante los instrumentos del equipo."
+    },
+    {
+      "term": "Indicador químico de esterilización",
+      "definition": "Cambia cuando se expone a determinadas condiciones del proceso, pero por sí solo no demuestra esterilidad."
+    },
+    {
+      "term": "Indicador biológico",
+      "definition": "Utiliza esporas muy resistentes para comprobar directamente la capacidad microbicida del ciclo."
+    },
+    {
+      "term": "Prueba Bowie-Dick",
+      "definition": "Evalúa la eliminación de aire y la penetración uniforme del vapor en esterilizadores de prevacío."
+    },
+    {
+      "term": "Trazabilidad de esterilización",
+      "definition": "Relaciona cada carga, ciclo, controles, lote y material procesado con el paciente o procedimiento cuando corresponda."
+    }
+  ]
+}

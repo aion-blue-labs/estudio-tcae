@@ -1,0 +1,111 @@
+{
+  "tema_num": 16,
+  "tag": "UNIDAD DEL PACIENTE Y CAMA · TEMA 16",
+  "tema_default": "higiene",
+  "fuentes": [
+    "Manuales de cuidados auxiliares de enfermería y protocolos hospitalarios de unidad del paciente",
+    "Recomendaciones de confort y seguridad ambiental en hospitalización"
+  ],
+  "facts": [
+    {
+      "term": "Unidad del paciente",
+      "definition": "Es el espacio, mobiliario y material destinado a una persona ingresada para facilitar atención, descanso, seguridad e intimidad."
+    },
+    {
+      "term": "Temperatura de una habitación de hospitalización",
+      "definition": "Suele mantenerse alrededor de 20 a 22 °C en áreas generales, adaptándola al paciente y al protocolo de la unidad."
+    },
+    {
+      "term": "Humedad ambiental hospitalaria",
+      "definition": "Habitualmente se busca un rango aproximado del 40 al 60 % para favorecer confort y evitar sequedad o condensación."
+    },
+    {
+      "term": "Ventilación de la habitación",
+      "definition": "Debe renovar el aire sin crear corrientes directas sobre el paciente ni comprometer las condiciones de aislamiento."
+    },
+    {
+      "term": "Iluminación de la unidad",
+      "definition": "Debe combinar luz general y localizada, evitar deslumbramientos y permitir el descanso nocturno y la observación segura."
+    },
+    {
+      "term": "Control del ruido hospitalario",
+      "definition": "Reducir conversaciones, alarmas evitables y golpes favorece el sueño, el bienestar y la recuperación."
+    },
+    {
+      "term": "Cama hospitalaria articulada",
+      "definition": "Permite modificar por secciones la posición del tronco y de las extremidades para cuidados, tratamiento y confort."
+    },
+    {
+      "term": "Barandillas de la cama",
+      "definition": "Son un elemento de seguridad que debe usarse tras valorar el riesgo y sin convertirlas indebidamente en una contención."
+    },
+    {
+      "term": "Sistema de llamada",
+      "definition": "Debe quedar accesible al paciente para pedir ayuda sin incorporarse o levantarse de forma insegura."
+    },
+    {
+      "term": "Mesa de noche",
+      "definition": "Guarda objetos personales y material de uso frecuente, manteniéndose limpia, ordenada y al alcance cuando proceda."
+    },
+    {
+      "term": "Mesa puente o de cama",
+      "definition": "Se coloca sobre la cama para facilitar comidas, lectura y algunas actividades o cuidados."
+    },
+    {
+      "term": "Biombo o cortina",
+      "definition": "Ayuda a preservar la intimidad visual durante el aseo, las eliminaciones y otros cuidados."
+    },
+    {
+      "term": "Trapecio de cama",
+      "definition": "Permite que un paciente con fuerza suficiente colabore en incorporarse o cambiar de posición."
+    },
+    {
+      "term": "Marco de Balkan",
+      "definition": "Es una estructura sobre la cama que puede sostener sistemas de tracción, poleas y un trapecio de movilización."
+    },
+    {
+      "term": "Cama electrocircular",
+      "definition": "Permite giros amplios alrededor de un eje y se reserva para situaciones clínicas muy específicas."
+    },
+    {
+      "term": "Cama de aire fluidificado",
+      "definition": "Distribuye la presión mediante microesferas y flujo de aire para pacientes con necesidades especiales de protección cutánea."
+    },
+    {
+      "term": "Cama cerrada",
+      "definition": "Está preparada y cubierta para permanecer sin paciente asignado hasta un nuevo ingreso."
+    },
+    {
+      "term": "Cama abierta desocupada",
+      "definition": "Corresponde a un paciente ingresado que puede levantarse y no se encuentra en ella durante el arreglo."
+    },
+    {
+      "term": "Cama ocupada",
+      "definition": "Se arregla con el paciente dentro cuando no puede levantarse, movilizándolo con seguridad de un lado a otro."
+    },
+    {
+      "term": "Cama quirúrgica o de anestesia",
+      "definition": "Se deja preparada para recibir a un paciente operado, con la ropa superior plegada para facilitar la transferencia."
+    },
+    {
+      "term": "Freno de la cama durante el arreglo",
+      "definition": "Debe permanecer activado para evitar desplazamientos accidentales y proteger a paciente y profesionales."
+    },
+    {
+      "term": "Ropa de cama limpia",
+      "definition": "Se manipula evitando el contacto con uniforme, suelo y superficies contaminadas y se conserva separada de la ropa sucia."
+    },
+    {
+      "term": "Ropa de cama sucia",
+      "definition": "No debe sacudirse ni apoyarse en el suelo; se introduce directamente en el circuito o bolsa correspondiente."
+    },
+    {
+      "term": "Pliegues en la sábana bajera",
+      "definition": "Deben eliminarse porque aumentan fricción, incomodidad y riesgo de lesión cutánea."
+    },
+    {
+      "term": "Arreglo de cama ocupada",
+      "definition": "Requiere explicar la técnica, preservar intimidad, proteger dispositivos y pedir ayuda si la movilización no es segura."
+    }
+  ]
+}

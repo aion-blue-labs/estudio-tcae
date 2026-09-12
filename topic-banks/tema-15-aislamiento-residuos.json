@@ -1,0 +1,123 @@
+{
+  "tema_num": 15,
+  "tag": "AISLAMIENTOS Y RESIDUOS · TEMA 15",
+  "tema_default": "infeccion",
+  "fuentes": [
+    "Precauciones estándar y basadas en la transmisión de la OMS y los CDC",
+    "Decreto 38/2015, de 26 de febrero, de residuos sanitarios de Galicia"
+  ],
+  "facts": [
+    {
+      "term": "Precauciones estándar",
+      "definition": "Se aplican a todos los pacientes y ajustan higiene de manos, protección, material y entorno al riesgo previsto de exposición."
+    },
+    {
+      "term": "Higiene de manos",
+      "definition": "Es la medida principal para interrumpir la transmisión y debe realizarse en los momentos indicados aunque se utilicen guantes."
+    },
+    {
+      "term": "Uso de guantes",
+      "definition": "Se indica ante posible contacto con sangre, fluidos, mucosas, piel no intacta o material contaminado y no sustituye la higiene de manos."
+    },
+    {
+      "term": "Higiene respiratoria",
+      "definition": "Incluye cubrir tos y estornudos, usar pañuelos, higiene de manos y separar o enmascarar a personas sintomáticas cuando proceda."
+    },
+    {
+      "term": "Precauciones de contacto",
+      "definition": "Añaden guantes y bata al entrar o al prever contacto y priorizan equipo dedicado y limpieza reforzada."
+    },
+    {
+      "term": "Precauciones por gotas",
+      "definition": "Requieren mascarilla médica para la proximidad al paciente y medidas adicionales durante el traslado según el protocolo."
+    },
+    {
+      "term": "Precauciones por vía aérea",
+      "definition": "Exigen protección respiratoria adecuada y, preferentemente, habitación individual con presión negativa."
+    },
+    {
+      "term": "Aislamiento protector o inverso",
+      "definition": "Busca proteger de microorganismos ambientales a un paciente especialmente inmunodeprimido."
+    },
+    {
+      "term": "Presión negativa",
+      "definition": "Hace que el aire fluya hacia el interior de la habitación y ayuda a evitar que contaminantes aéreos salgan al pasillo."
+    },
+    {
+      "term": "Presión positiva",
+      "definition": "Favorece que el aire salga de la habitación y puede usarse para proteger a determinados pacientes inmunodeprimidos."
+    },
+    {
+      "term": "Equipo de protección individual en aislamiento",
+      "definition": "Se selecciona según la vía de transmisión y el riesgo de la tarea, y se retira evitando contaminar ropa, piel y entorno."
+    },
+    {
+      "term": "Traslado de un paciente aislado",
+      "definition": "Debe limitarse a lo necesario, avisar al servicio receptor y aplicar al paciente y al personal las medidas indicadas."
+    },
+    {
+      "term": "Material de uso exclusivo",
+      "definition": "Reduce transmisión cruzada; si debe compartirse se limpia y desinfecta correctamente antes de usarlo con otra persona."
+    },
+    {
+      "term": "Separación de residuos en origen",
+      "definition": "Cada residuo debe depositarse inmediatamente en el envase de su clase en el mismo lugar donde se genera.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Clase I de residuos sanitarios en Galicia",
+      "definition": "Incluye residuos domésticos del centro similares a los producidos en los hogares.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Clase II de residuos sanitarios en Galicia",
+      "definition": "Agrupa residuos no domésticos y se divide en específicos de actividad sanitaria, clase IIa, y no específicos, clase IIb.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Clase IIa de residuos",
+      "definition": "Son residuos no peligrosos específicos generados como resultado de la actividad sanitaria propiamente dicha.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Cortantes y punzantes de clase IIa",
+      "definition": "Aunque sean clase IIa, en Galicia se gestionan del mismo modo que los residuos sanitarios de clase III.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Clase III de residuos sanitarios",
+      "definition": "Incluye residuos peligrosos biocontaminados que necesitan gestión diferenciada en todas las etapas.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Vacunas vivas o atenuadas desechadas",
+      "definition": "Sus residuos pertenecen a la clase III biocontaminada según el Decreto gallego.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Clase IV de residuos sanitarios",
+      "definition": "Comprende citotóxicos, citostáticos y todo material usado en su preparación o que haya estado en contacto con ellos.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Clase V de residuos sanitarios",
+      "definition": "Reúne otros residuos peligrosos del centro no incluidos en las clases III y IV.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Recipiente para residuos de clases III y IV",
+      "definition": "Debe ser rígido, estable, opaco, impermeable, resistente a perforación y disponer de cierre hermético.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Transporte intracentro de residuos",
+      "definition": "Debe ser rápido, higiénico y seguro, con envases cerrados y sin arrastrar bolsas ni comprometer su integridad.",
+      "tema": "muestras"
+    },
+    {
+      "term": "Almacenamiento de residuos sanitarios",
+      "definition": "Solo puede realizarse en lugares específicamente habilitados y nunca con bolsas depositadas a la intemperie.",
+      "tema": "muestras"
+    }
+  ]
+}

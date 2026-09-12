@@ -1,0 +1,111 @@
+{
+  "tema_num": 18,
+  "tag": "ÚLCERAS POR PRESIÓN · TEMA 18",
+  "tema_default": "upp",
+  "fuentes": [
+    "Guías internacionales EPUAP-NPIAP-PPPIA sobre prevención y tratamiento de lesiones por presión",
+    "Guías y protocolos del Sistema Nacional de Salud sobre úlceras por presión"
+  ],
+  "facts": [
+    {
+      "term": "Lesión o úlcera por presión",
+      "definition": "Es un daño localizado en piel y tejidos subyacentes, generalmente sobre una prominencia ósea o asociado a un dispositivo, por presión o presión combinada con cizalla."
+    },
+    {
+      "term": "Presión mantenida",
+      "definition": "Comprime los vasos, reduce la perfusión y puede producir isquemia y daño tisular."
+    },
+    {
+      "term": "Cizalla",
+      "definition": "Desplaza planos tisulares en sentidos opuestos, por ejemplo cuando el paciente se desliza con el cabecero elevado."
+    },
+    {
+      "term": "Fricción",
+      "definition": "Lesiona superficialmente la piel por roce y puede aumentar su vulnerabilidad, aunque no explica por sí sola una lesión profunda por presión."
+    },
+    {
+      "term": "Humedad como factor de riesgo",
+      "definition": "La incontinencia, sudor o exudado maceran la piel y reducen su resistencia frente a presión y fricción."
+    },
+    {
+      "term": "Inmovilidad como factor de riesgo",
+      "definition": "Impide aliviar espontáneamente la presión y aumenta el tiempo de compresión sobre prominencias óseas."
+    },
+    {
+      "term": "Localizaciones en decúbito supino",
+      "definition": "Son frecuentes occipucio, escápulas, codos, sacro y talones."
+    },
+    {
+      "term": "Localizaciones en decúbito lateral",
+      "definition": "Deben vigilarse oreja, hombro, costillas, trocánter, rodillas y maléolos."
+    },
+    {
+      "term": "Localizaciones en sedestación",
+      "definition": "Destacan tuberosidades isquiáticas, sacro, talones y zonas en contacto con apoyos o dispositivos."
+    },
+    {
+      "term": "UPP de categoría o estadio I",
+      "definition": "Presenta piel intacta con eritema no blanqueable localizado."
+    },
+    {
+      "term": "UPP de categoría o estadio II",
+      "definition": "Existe pérdida parcial del grosor de la piel con dermis expuesta, sin tejido adiposo visible ni esfacelos."
+    },
+    {
+      "term": "UPP de categoría o estadio III",
+      "definition": "Hay pérdida total del grosor de la piel; puede verse tejido adiposo y granulación, pero no músculo, tendón o hueso expuesto."
+    },
+    {
+      "term": "UPP de categoría o estadio IV",
+      "definition": "Hay pérdida total de piel y tejido con fascia, músculo, tendón, cartílago o hueso expuesto o palpable."
+    },
+    {
+      "term": "Lesión por presión no clasificable",
+      "definition": "La profundidad real queda oculta por esfacelos o escara y no puede determinarse hasta retirarlos cuando esté indicado."
+    },
+    {
+      "term": "Lesión por presión de tejido profundo",
+      "definition": "Se manifiesta como coloración rojo oscuro, granate o púrpura persistente, o ampolla hemática, por daño profundo."
+    },
+    {
+      "term": "Escala de Norton",
+      "definition": "Valora condición física, estado mental, actividad, movilidad e incontinencia; una puntuación menor indica mayor riesgo."
+    },
+    {
+      "term": "Escala de Braden",
+      "definition": "Valora percepción sensorial, humedad, actividad, movilidad, nutrición y fricción o cizalla; una puntuación menor implica mayor riesgo."
+    },
+    {
+      "term": "Valoración del riesgo de UPP",
+      "definition": "Debe realizarse al ingreso, repetirse cuando cambie la situación y complementarse siempre con juicio clínico e inspección cutánea."
+    },
+    {
+      "term": "Cambios posturales",
+      "definition": "Se programan de forma individual según riesgo, tolerancia, superficie de apoyo y estado clínico, evitando apoyar sobre zonas lesionadas."
+    },
+    {
+      "term": "Descarga de los talones",
+      "definition": "Debe elevarlos de modo que queden sin contacto con la cama y distribuir el peso a lo largo de la pantorrilla sin comprimir el tendón."
+    },
+    {
+      "term": "Superficie especial para manejo de presión",
+      "definition": "Redistribuye la carga pero no sustituye la movilización, la inspección ni el resto del plan preventivo."
+    },
+    {
+      "term": "Cuidado preventivo de la piel",
+      "definition": "Incluye limpieza suave, secado sin fricción, hidratación cuando proceda y protección frente a humedad e incontinencia."
+    },
+    {
+      "term": "Masaje sobre una prominencia enrojecida",
+      "definition": "Debe evitarse porque puede agravar el daño tisular de una zona sometida a presión."
+    },
+    {
+      "term": "Nutrición y prevención de UPP",
+      "definition": "Requiere detectar riesgo de desnutrición y asegurar aporte de energía, proteínas y líquidos conforme al plan individual."
+    },
+    {
+      "term": "Registro preventivo de UPP",
+      "definition": "Debe documentar valoración del riesgo, estado de la piel, cambios posturales, superficie usada y respuesta del paciente."
+    }
+  ]
+}
