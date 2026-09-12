@@ -1,0 +1,110 @@
+{
+  "tema_num": 3,
+  "tag": "LEY GENERAL DE SANIDAD · TEMA 3",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Ley 14/1986, de 25 de abril, General de Sanidad (texto consolidado del BOE)"
+  ],
+  "facts": [
+    {
+      "term": "Objeto de la Ley General de Sanidad",
+      "definition": "Regula las acciones que permiten hacer efectivo el derecho constitucional a la protección de la salud."
+    },
+    {
+      "term": "Titulares del derecho según la Ley General de Sanidad",
+      "definition": "Lo son los españoles y los ciudadanos extranjeros que tengan establecida su residencia en territorio nacional, sin perjuicio de las reglas específicas aplicables."
+    },
+    {
+      "term": "Sistema Nacional de Salud",
+      "definition": "Es el conjunto coordinado de los servicios de salud de la Administración del Estado y de las Comunidades Autónomas."
+    },
+    {
+      "term": "Universalización de la asistencia",
+      "definition": "La asistencia sanitaria pública debe extenderse a toda la población española en condiciones de acceso efectivo."
+    },
+    {
+      "term": "Equidad territorial sanitaria",
+      "definition": "La política de salud debe orientarse a superar los desequilibrios territoriales y sociales."
+    },
+    {
+      "term": "Concepción integral de la salud",
+      "definition": "Las actuaciones sanitarias comprenden promoción, prevención, curación y rehabilitación."
+    },
+    {
+      "term": "Promoción de la salud",
+      "definition": "Es una orientación prioritaria del sistema que busca mejorar la salud de la población antes de que aparezca la enfermedad."
+    },
+    {
+      "term": "Prevención de la enfermedad",
+      "definition": "Incluye las actuaciones dirigidas a evitar la aparición de daños o a detectarlos precozmente."
+    },
+    {
+      "term": "Participación comunitaria",
+      "definition": "Los poderes públicos deben favorecer la intervención de la población en la formulación y el control de la política sanitaria."
+    },
+    {
+      "term": "Descentralización sanitaria",
+      "definition": "Los servicios se organizan de forma desconcentrada y descentralizada para acercar la gestión a las necesidades de la población."
+    },
+    {
+      "term": "Área de Salud",
+      "definition": "Es la estructura fundamental del sistema sanitario responsable de gestionar unitariamente los centros, servicios y programas de salud de su territorio."
+    },
+    {
+      "term": "Funciones asistenciales del Área de Salud",
+      "definition": "Debe desarrollar la atención primaria en su territorio y la atención especializada que corresponda, coordinando ambos niveles."
+    },
+    {
+      "term": "Población de referencia del Área de Salud",
+      "definition": "Como regla general se sitúa entre doscientos mil y doscientos cincuenta mil habitantes, con las excepciones legales."
+    },
+    {
+      "term": "Criterios de delimitación de las Áreas de Salud",
+      "definition": "Se valoran factores geográficos, socioeconómicos, demográficos, laborales, epidemiológicos, culturales, climatológicos, de comunicaciones e instalaciones."
+    },
+    {
+      "term": "Órganos del Área de Salud",
+      "definition": "Son el Consejo de Salud de Área, el Consejo de Dirección de Área y el Gerente de Área."
+    },
+    {
+      "term": "Consejo de Salud de Área",
+      "definition": "Es el órgano colegiado de participación comunitaria para la consulta y el seguimiento de la gestión sanitaria del área."
+    },
+    {
+      "term": "Gerente de Área",
+      "definition": "Es el órgano de gestión encargado de ejecutar las directrices del Consejo de Dirección y las normas de la Administración sanitaria competente."
+    },
+    {
+      "term": "Zona Básica de Salud",
+      "definition": "Es el marco territorial de la atención primaria donde desarrolla su actividad principal el equipo de atención primaria."
+    },
+    {
+      "term": "Centro de Salud",
+      "definition": "Es la estructura física y funcional que permite desarrollar de forma coordinada, integral, permanente y continuada la atención primaria."
+    },
+    {
+      "term": "Equipo de Atención Primaria",
+      "definition": "Es el conjunto de profesionales sanitarios y no sanitarios que actúa en una Zona Básica de Salud."
+    },
+    {
+      "term": "Hospital integrado en el Área de Salud",
+      "definition": "Es el establecimiento encargado tanto del internamiento clínico como de la asistencia especializada y complementaria de su población."
+    },
+    {
+      "term": "Funciones no asistenciales del hospital",
+      "definition": "Además de la asistencia, desarrolla promoción de la salud, prevención, investigación y docencia de acuerdo con los programas del área."
+    },
+    {
+      "term": "Competencias sanitarias exclusivas del Estado",
+      "definition": "Comprenden la sanidad exterior, las bases y coordinación general de la sanidad y la legislación sobre productos farmacéuticos."
+    },
+    {
+      "term": "Competencias de las Comunidades Autónomas",
+      "definition": "Ejercen las asumidas en sus Estatutos y las que el Estado les transfiera o delegue, además del desarrollo y ejecución que permita la legislación básica."
+    },
+    {
+      "term": "Consejo Interterritorial del Sistema Nacional de Salud",
+      "definition": "Es el órgano permanente de coordinación, cooperación, comunicación e información entre los servicios de salud y la Administración del Estado."
+    }
+  ]
+}

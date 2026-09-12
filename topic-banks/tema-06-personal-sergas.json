@@ -1,0 +1,111 @@
+{
+  "tema_num": 6,
+  "tag": "PERSONAL ESTATUTARIO SERGAS · TEMA 6",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Ley 55/2003, Estatuto Marco del personal estatutario, texto consolidado",
+    "Normativa y acuerdos vigentes del Servizo Galego de Saúde sobre selección, movilidad y carrera profesional"
+  ],
+  "facts": [
+    {
+      "term": "Principios de selección del personal estatutario",
+      "definition": "El acceso debe respetar igualdad, mérito, capacidad, competencia, publicidad, transparencia y libre concurrencia."
+    },
+    {
+      "term": "Oposición",
+      "definition": "Es un sistema selectivo basado en la realización de una o varias pruebas para valorar capacidad y conocimientos."
+    },
+    {
+      "term": "Concurso-oposición",
+      "definition": "Combina una fase de pruebas con otra de valoración de méritos conforme al baremo de la convocatoria."
+    },
+    {
+      "term": "Concurso como sistema de acceso",
+      "definition": "Consiste en valorar méritos y solo puede utilizarse con carácter excepcional cuando lo establezca una ley."
+    },
+    {
+      "term": "Convocatoria de selección",
+      "definition": "Debe publicarse oficialmente e indicar plazas, requisitos, sistema, pruebas, baremo y plazos aplicables."
+    },
+    {
+      "term": "Provisión de plazas",
+      "definition": "Permite cubrir puestos ya existentes mediante procedimientos como movilidad voluntaria, concurso o libre designación en los casos previstos."
+    },
+    {
+      "term": "Concurso de traslados",
+      "definition": "Es el procedimiento ordinario de movilidad voluntaria del personal fijo, basado en la valoración objetiva de méritos."
+    },
+    {
+      "term": "Libre designación",
+      "definition": "Es un sistema excepcional para puestos de especial responsabilidad o confianza que estén expresamente previstos."
+    },
+    {
+      "term": "Comisión de servicios",
+      "definition": "Permite desempeñar temporalmente otra plaza o puesto por necesidades del servicio, conservando la plaza de origen en los términos legales."
+    },
+    {
+      "term": "Movilidad por razón de salud",
+      "definition": "Puede acordarse para proteger al trabajador cuando exista una causa acreditada y una plaza compatible, según el procedimiento aplicable."
+    },
+    {
+      "term": "Jornada ordinaria",
+      "definition": "Es el tiempo de trabajo fijado por las normas o acuerdos para cumplir la prestación habitual del puesto."
+    },
+    {
+      "term": "Jornada complementaria",
+      "definition": "Se utiliza para garantizar la atención continuada en determinadas categorías y servicios cuando resulte necesaria."
+    },
+    {
+      "term": "Descanso entre jornadas",
+      "definition": "Como regla general debe existir un período mínimo ininterrumpido de doce horas entre el final de una jornada y el comienzo de la siguiente."
+    },
+    {
+      "term": "Descanso semanal",
+      "definition": "Debe garantizarse, con carácter general, un promedio de veinticuatro horas ininterrumpidas añadido al descanso diario."
+    },
+    {
+      "term": "Vacaciones anuales",
+      "definition": "El personal tiene derecho a un período retribuido no inferior a treinta días naturales, o a la parte proporcional cuando proceda."
+    },
+    {
+      "term": "Retribuciones básicas",
+      "definition": "Comprenden el sueldo asignado a la categoría, los trienios y las pagas extraordinarias en los términos presupuestarios."
+    },
+    {
+      "term": "Complemento de destino",
+      "definition": "Retribuye el nivel del puesto desempeñado."
+    },
+    {
+      "term": "Complemento específico",
+      "definition": "Retribuye condiciones particulares del puesto como dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad."
+    },
+    {
+      "term": "Complemento de productividad",
+      "definition": "Retribuye el rendimiento, la iniciativa y el interés o la contribución a los resultados y objetivos asignados."
+    },
+    {
+      "term": "Complemento de atención continuada",
+      "definition": "Retribuye la prestación de servicios fuera de la jornada ordinaria para mantener la asistencia permanente."
+    },
+    {
+      "term": "Faltas disciplinarias",
+      "definition": "Se clasifican legalmente en muy graves, graves y leves según la entidad de la conducta y sus consecuencias."
+    },
+    {
+      "term": "Prescripción de faltas muy graves",
+      "definition": "Con carácter general se produce a los cuatro años desde su comisión, con las reglas de interrupción legalmente previstas."
+    },
+    {
+      "term": "Prescripción de faltas graves",
+      "definition": "Con carácter general se produce a los dos años desde su comisión."
+    },
+    {
+      "term": "Prescripción de faltas leves",
+      "definition": "Con carácter general se produce a los seis meses desde su comisión."
+    },
+    {
+      "term": "Carrera profesional",
+      "definition": "Es el reconocimiento individualizado y voluntario del desarrollo alcanzado por experiencia, conocimientos, formación, calidad y cumplimiento de objetivos."
+    }
+  ]
+}

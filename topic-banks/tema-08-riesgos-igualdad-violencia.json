@@ -1,0 +1,113 @@
+{
+  "tema_num": 8,
+  "tag": "PRL, IGUALDAD Y VIOLENCIA · TEMA 8",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Ley 31/1995, de Prevención de Riesgos Laborales, texto consolidado",
+    "Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres",
+    "Ley 7/2023, de igualdad efectiva de mujeres y hombres de Galicia",
+    "Ley Orgánica 1/2004 y Ley 11/2007 de Galicia sobre violencia de género"
+  ],
+  "facts": [
+    {
+      "term": "Prevención de riesgos laborales",
+      "definition": "Es el conjunto de actividades y medidas adoptadas o previstas en todas las fases del trabajo para evitar o disminuir los riesgos."
+    },
+    {
+      "term": "Riesgo laboral",
+      "definition": "Es la posibilidad de que un trabajador sufra un daño derivado del trabajo, valorando conjuntamente probabilidad y gravedad."
+    },
+    {
+      "term": "Daños derivados del trabajo",
+      "definition": "Incluyen enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo."
+    },
+    {
+      "term": "Riesgo grave e inminente",
+      "definition": "Es el que resulta probable racionalmente que se materialice en un futuro inmediato y pueda causar un daño grave."
+    },
+    {
+      "term": "Principio de evitar los riesgos",
+      "definition": "Obliga a eliminar el peligro siempre que sea posible antes de recurrir a otras medidas de control."
+    },
+    {
+      "term": "Evaluación de riesgos",
+      "definition": "Es el proceso para estimar los riesgos que no pudieron evitarse y decidir las medidas preventivas necesarias."
+    },
+    {
+      "term": "Protección colectiva frente a individual",
+      "definition": "Las medidas que protegen al conjunto de trabajadores deben priorizarse sobre los equipos de protección individual."
+    },
+    {
+      "term": "Información preventiva",
+      "definition": "El trabajador debe conocer los riesgos de su puesto, las medidas de protección y las actuaciones de emergencia."
+    },
+    {
+      "term": "Formación preventiva",
+      "definition": "Debe ser teórica y práctica, suficiente, adecuada al puesto y actualizarse cuando cambien funciones, equipos o riesgos."
+    },
+    {
+      "term": "Vigilancia de la salud",
+      "definition": "Debe ser específica para los riesgos del puesto y, con carácter general, requiere el consentimiento del trabajador."
+    },
+    {
+      "term": "Obligación del trabajador en prevención",
+      "definition": "Debe usar correctamente equipos y protecciones, informar de riesgos y cooperar con el empleador para mantener condiciones seguras."
+    },
+    {
+      "term": "Riesgo biológico del TCAE",
+      "definition": "Se relaciona con la exposición a sangre, fluidos, microorganismos y material cortopunzante potencialmente contaminado."
+    },
+    {
+      "term": "Riesgo ergonómico del TCAE",
+      "definition": "Incluye sobreesfuerzos, posturas forzadas y movilización manual de pacientes o cargas."
+    },
+    {
+      "term": "Riesgo químico del TCAE",
+      "definition": "Puede derivar del contacto o inhalación de desinfectantes, esterilizantes, medicamentos peligrosos y otros productos."
+    },
+    {
+      "term": "Accidente con material cortopunzante",
+      "definition": "Requiere lavado inmediato sin maniobras agresivas, comunicación urgente y valoración según el protocolo de exposición biológica."
+    },
+    {
+      "term": "Igualdad de trato entre mujeres y hombres",
+      "definition": "Supone ausencia de discriminación directa o indirecta por razón de sexo y la eliminación de desigualdades."
+    },
+    {
+      "term": "Discriminación directa por razón de sexo",
+      "definition": "Existe cuando una persona recibe un trato menos favorable que otra en situación comparable debido a su sexo."
+    },
+    {
+      "term": "Discriminación indirecta por razón de sexo",
+      "definition": "Aparece cuando una regla aparentemente neutra perjudica especialmente a un sexo sin una justificación objetiva y proporcionada."
+    },
+    {
+      "term": "Acoso sexual",
+      "definition": "Es una conducta verbal o física de naturaleza sexual que atenta contra la dignidad y crea un entorno intimidatorio, degradante u ofensivo."
+    },
+    {
+      "term": "Acoso por razón de sexo",
+      "definition": "Es una conducta basada en el sexo de una persona que vulnera su dignidad y genera un entorno hostil u ofensivo."
+    },
+    {
+      "term": "Acciones positivas",
+      "definition": "Son medidas específicas y proporcionadas para corregir situaciones patentes de desigualdad de hecho."
+    },
+    {
+      "term": "Transversalidad de género",
+      "definition": "Obliga a integrar el principio de igualdad en la elaboración, ejecución y evaluación de todas las políticas públicas."
+    },
+    {
+      "term": "Violencia de género según la Ley Orgánica 1/2004",
+      "definition": "Es la ejercida sobre las mujeres por quienes sean o hayan sido sus cónyuges o estén o hayan estado ligados a ellas por relaciones afectivas similares."
+    },
+    {
+      "term": "Formas comprendidas en la violencia de género",
+      "definition": "Incluyen violencia física y psicológica, agresiones sexuales, amenazas, coacciones y privación arbitraria de libertad."
+    },
+    {
+      "term": "Actuación sanitaria ante sospecha de violencia",
+      "definition": "Debe priorizar seguridad, escucha sin juicios, intimidad, valoración clínica, registro objetivo y activación del protocolo correspondiente."
+    }
+  ]
+}

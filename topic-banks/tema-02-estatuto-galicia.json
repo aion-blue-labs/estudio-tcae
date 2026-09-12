@@ -1,0 +1,111 @@
+{
+  "tema_num": 2,
+  "tag": "ESTATUTO DE GALICIA · TEMA 2",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Ley Orgánica 1/1981, de 6 de abril, de Estatuto de Autonomía para Galicia (texto consolidado del BOE)",
+    "Ley 8/1985, de elecciones al Parlamento de Galicia"
+  ],
+  "facts": [
+    {
+      "term": "Estatuto de Autonomía de Galicia",
+      "definition": "Es la norma institucional básica de la Comunidad Autónoma gallega y fue aprobado por la Ley Orgánica 1/1981, de 6 de abril."
+    },
+    {
+      "term": "Nacionalidad histórica gallega",
+      "definition": "Galicia se constituye en Comunidad Autónoma para acceder a su autogobierno, de acuerdo con la Constitución y con su Estatuto."
+    },
+    {
+      "term": "Territorio de Galicia",
+      "definition": "Comprende el de los municipios integrados en las provincias de A Coruña, Lugo, Ourense y Pontevedra."
+    },
+    {
+      "term": "Lengua propia de Galicia",
+      "definition": "El gallego es la lengua propia de Galicia."
+    },
+    {
+      "term": "Cooficialidad lingüística",
+      "definition": "El gallego y el castellano son oficiales en Galicia y todos tienen derecho a conocerlos y usarlos."
+    },
+    {
+      "term": "Sede de las instituciones autonómicas",
+      "definition": "Se fija por una ley de Galicia aprobada por mayoría de dos tercios del Parlamento."
+    },
+    {
+      "term": "Poderes de la Comunidad Autónoma",
+      "definition": "Se ejercen a través del Parlamento, de la Xunta y de su Presidente."
+    },
+    {
+      "term": "Parlamento de Galicia",
+      "definition": "Representa al pueblo gallego, ejerce la potestad legislativa, controla a la Xunta, aprueba los presupuestos y designa senadores autonómicos."
+    },
+    {
+      "term": "Elección del Parlamento gallego",
+      "definition": "Sus miembros se eligen por sufragio universal, igual, libre, directo y secreto, mediante un sistema de representación proporcional."
+    },
+    {
+      "term": "Número estatutario de diputados gallegos",
+      "definition": "La Cámara debe estar integrada por un mínimo de sesenta y un máximo de ochenta diputados."
+    },
+    {
+      "term": "Mandato del Parlamento de Galicia",
+      "definition": "La Cámara es elegida por un período de cuatro años."
+    },
+    {
+      "term": "Inviolabilidad del Parlamento",
+      "definition": "La Cámara autonómica no puede ser objeto de coacción ni interferencias en el ejercicio legítimo de sus funciones."
+    },
+    {
+      "term": "Presidente de la Xunta",
+      "definition": "Dirige y coordina la acción del Gobierno gallego y ostenta la representación de la Comunidad Autónoma y la ordinaria del Estado en Galicia."
+    },
+    {
+      "term": "Elección del Presidente de la Xunta",
+      "definition": "Es elegido por el Parlamento de Galicia de entre sus miembros."
+    },
+    {
+      "term": "Nombramiento del Presidente de la Xunta",
+      "definition": "Tras su elección parlamentaria, es nombrado por el Rey."
+    },
+    {
+      "term": "Xunta de Galicia",
+      "definition": "Es el órgano colegiado de gobierno de Galicia y ejerce funciones ejecutivas y administrativas."
+    },
+    {
+      "term": "Composición de la Xunta",
+      "definition": "Está integrada por el Presidente, uno o varios Vicepresidentes en su caso y los Conselleiros."
+    },
+    {
+      "term": "Responsabilidad política de la Xunta",
+      "definition": "El Gobierno gallego responde políticamente ante el Parlamento de forma solidaria, sin perjuicio de la responsabilidad directa de cada miembro por su gestión."
+    },
+    {
+      "term": "Tribunal Superior de Justicia de Galicia",
+      "definition": "Es el órgano jurisdiccional en el que culmina la organización judicial en el ámbito territorial gallego, sin perjuicio del Tribunal Supremo."
+    },
+    {
+      "term": "Competencia gallega en sanidad interior",
+      "definition": "Corresponde a Galicia el desarrollo legislativo y la ejecución de la legislación básica del Estado en esta materia."
+    },
+    {
+      "term": "Alta inspección sanitaria",
+      "definition": "El Estado conserva esta función para garantizar el cumplimiento de las competencias sanitarias conforme a la Constitución y a las leyes."
+    },
+    {
+      "term": "Productos farmacéuticos",
+      "definition": "Galicia tiene competencia para ejecutar la legislación del Estado en esta materia."
+    },
+    {
+      "term": "Valedor do Pobo",
+      "definition": "Es el alto comisionado del Parlamento de Galicia para defender los derechos fundamentales y supervisar la Administración autonómica."
+    },
+    {
+      "term": "Iniciativa de reforma estatutaria",
+      "definition": "Puede corresponder a la Xunta, al Parlamento gallego o a las Cortes Generales, en los términos previstos por el Estatuto."
+    },
+    {
+      "term": "Procedimiento ordinario de reforma del Estatuto",
+      "definition": "Exige aprobación por dos tercios del Parlamento gallego, aprobación de las Cortes Generales mediante ley orgánica y referéndum positivo del electorado gallego."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "tema_num": 4,
+  "tag": "SALUD DE GALICIA · TEMA 4",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Ley 8/2008, de 10 de julio, de salud de Galicia, con sus modificaciones vigentes",
+    "Estructuras orgánicas vigentes de la Consellería de Sanidade y del Servizo Galego de Saúde"
+  ],
+  "facts": [
+    {
+      "term": "Objeto de la Ley 8/2008",
+      "definition": "Regula las actuaciones dirigidas a proteger la salud en Galicia, ordena el Sistema de Salud y garantiza los derechos y deberes sanitarios de la ciudadanía."
+    },
+    {
+      "term": "Sistema Público de Salud de Galicia",
+      "definition": "Es el conjunto de recursos, medios organizativos, actividades, servicios y prestaciones públicas destinados a promover y proteger la salud, prevenir la enfermedad y prestar asistencia."
+    },
+    {
+      "term": "Sistema de Salud de Galicia",
+      "definition": "Integra el sector sanitario público y el privado que actúan en Galicia, bajo las reglas de ordenación y control sanitario aplicables."
+    },
+    {
+      "term": "Centralidad de la ciudadanía",
+      "definition": "El modelo sanitario gallego sitúa a las personas, sus necesidades y sus derechos como eje de la organización y de la atención."
+    },
+    {
+      "term": "Carácter público del sistema",
+      "definition": "La ley promueve y potencia la responsabilidad pública en la protección de la salud y en la provisión de las prestaciones de cobertura pública."
+    },
+    {
+      "term": "Equidad en salud",
+      "definition": "Implica combatir las desigualdades sociales y territoriales y garantizar el acceso según las necesidades de cada persona."
+    },
+    {
+      "term": "Atención sanitaria integral",
+      "definition": "Comprende de forma coordinada promoción, prevención, asistencia, rehabilitación y cuidados a lo largo del proceso de salud."
+    },
+    {
+      "term": "Humanización de la asistencia",
+      "definition": "Exige prestar los cuidados respetando la dignidad, la intimidad, las preferencias y las circunstancias personales del paciente."
+    },
+    {
+      "term": "Derecho a la intimidad",
+      "definition": "La persona debe ser atendida preservando su privacidad corporal y la confidencialidad de la información relacionada con su salud."
+    },
+    {
+      "term": "Derecho al acompañamiento",
+      "definition": "Se reconoce en los términos establecidos por la organización sanitaria y con los límites justificados por razones clínicas o de seguridad."
+    },
+    {
+      "term": "Derecho a la autonomía de decisión",
+      "definition": "Permite aceptar o rechazar actuaciones sanitarias después de recibir información suficiente, salvo las excepciones previstas por la ley."
+    },
+    {
+      "term": "Derecho a no ser informado",
+      "definition": "La voluntad del paciente de no recibir información debe respetarse, dejando constancia y sin perjuicio de los límites legales y del interés de terceros."
+    },
+    {
+      "term": "Derecho a la información asistencial",
+      "definition": "La persona puede conocer de forma comprensible la finalidad, naturaleza, riesgos y consecuencias relevantes de las actuaciones sobre su salud."
+    },
+    {
+      "term": "Derecho a la documentación sanitaria",
+      "definition": "Incluye el acceso a la información de la propia historia clínica y la obtención de informes o certificados en los términos legales."
+    },
+    {
+      "term": "Derecho a presentar sugerencias y reclamaciones",
+      "definition": "La ciudadanía puede formularlas sobre el funcionamiento, la organización o la atención recibida y obtener una respuesta."
+    },
+    {
+      "term": "Deber de uso responsable",
+      "definition": "La ciudadanía debe utilizar adecuadamente las instalaciones, prestaciones y recursos sanitarios conforme a sus necesidades."
+    },
+    {
+      "term": "Deber de respeto en el centro sanitario",
+      "definition": "Obliga a mantener una conducta respetuosa con profesionales, pacientes, acompañantes y normas de convivencia."
+    },
+    {
+      "term": "Deber de aportar datos veraces",
+      "definition": "El usuario debe facilitar la información necesaria sobre su estado y colaborar cuando esos datos sean relevantes para la asistencia."
+    },
+    {
+      "term": "Consellería de Sanidade",
+      "definition": "Es el departamento de la Xunta que ejerce la autoridad sanitaria, dirige la política de salud, planifica, ordena, inspecciona y evalúa el sistema."
+    },
+    {
+      "term": "Servizo Galego de Saúde",
+      "definition": "Es el organismo encargado de la provisión integrada de los servicios y prestaciones de asistencia sanitaria de cobertura pública en Galicia."
+    },
+    {
+      "term": "Diferencia entre Consellería y SERGAS",
+      "definition": "La primera ejerce principalmente autoridad, dirección y planificación; el segundo gestiona y presta la asistencia sanitaria pública."
+    },
+    {
+      "term": "Áreas sanitarias de Galicia",
+      "definition": "Son ámbitos territoriales de planificación y provisión integrada que coordinan atención primaria, hospitalaria y sociosanitaria."
+    },
+    {
+      "term": "Atención primaria en el sistema gallego",
+      "definition": "Es el nivel inicial y más próximo a la población, con funciones de promoción, prevención, asistencia, seguimiento y coordinación."
+    },
+    {
+      "term": "Atención especializada en el sistema gallego",
+      "definition": "Presta asistencia de mayor complejidad en consultas, hospitales y unidades especializadas, coordinada con atención primaria."
+    },
+    {
+      "term": "Participación social sanitaria",
+      "definition": "La ley prevé órganos y fórmulas para incorporar la opinión de ciudadanía, pacientes, profesionales y agentes sociales a las políticas de salud."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "tema_num": 5,
+  "tag": "ESTATUTO MARCO · TEMA 5",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, texto consolidado vigente"
+  ],
+  "facts": [
+    {
+      "term": "Objeto del Estatuto Marco",
+      "definition": "Establece las bases reguladoras de la relación funcionarial especial del personal estatutario de los servicios de salud."
+    },
+    {
+      "term": "Personal estatutario sanitario",
+      "definition": "Es el que ostenta un nombramiento para ejercer una profesión o especialidad sanitaria."
+    },
+    {
+      "term": "Personal estatutario de gestión y servicios",
+      "definition": "Desarrolla funciones de gestión o profesiones y oficios que no tienen carácter específicamente sanitario."
+    },
+    {
+      "term": "Clasificación por el tipo de nombramiento",
+      "definition": "El personal estatutario puede ser fijo o temporal, sin perjuicio de la figura del personal sustituto prevista legalmente."
+    },
+    {
+      "term": "Personal estatutario fijo",
+      "definition": "Obtiene un nombramiento permanente después de superar el correspondiente proceso selectivo y cumplir los requisitos exigidos."
+    },
+    {
+      "term": "Personal estatutario interino",
+      "definition": "Es nombrado temporalmente por razones justificadas de necesidad y urgencia en los supuestos previstos por la ley."
+    },
+    {
+      "term": "Interinidad por plaza vacante",
+      "definition": "Permite cubrir temporalmente una plaza cuando no sea posible hacerlo con personal fijo, con el límite y las obligaciones de provisión establecidos legalmente."
+    },
+    {
+      "term": "Interinidad para programas temporales",
+      "definition": "Atiende actuaciones de duración determinada que no tienen naturaleza permanente, dentro del plazo máximo legal."
+    },
+    {
+      "term": "Interinidad por exceso o acumulación de tareas",
+      "definition": "Responde a necesidades coyunturales y puede durar como máximo nueve meses dentro de un período de dieciocho meses."
+    },
+    {
+      "term": "Personal estatutario sustituto",
+      "definition": "Se nombra para desempeñar funciones de personal fijo o temporal durante ausencias con reserva de plaza u otros supuestos legales de sustitución."
+    },
+    {
+      "term": "Adquisición de la condición de personal estatutario fijo",
+      "definition": "Exige superar las pruebas de selección, recibir el nombramiento del órgano competente e incorporarse en plazo a la plaza adjudicada."
+    },
+    {
+      "term": "Nombramiento estatutario",
+      "definition": "Es el acto formal de la autoridad competente que atribuye una plaza y categoría tras el proceso correspondiente."
+    },
+    {
+      "term": "Incorporación a la plaza",
+      "definition": "Debe producirse dentro del plazo fijado; si no se realiza sin causa justificada, puede impedir adquirir la condición de fijo."
+    },
+    {
+      "term": "Derecho a la estabilidad en el empleo",
+      "definition": "Protege al personal fijo frente a la pérdida arbitraria de su condición, sin excluir las causas legales de cese."
+    },
+    {
+      "term": "Derecho a la formación continuada",
+      "definition": "Permite actualizar conocimientos y aptitudes, preferentemente durante la jornada cuando lo permitan las necesidades del servicio."
+    },
+    {
+      "term": "Derecho a la protección eficaz en seguridad y salud",
+      "definition": "Obliga a prevenir los riesgos laborales y a adoptar medidas adecuadas para proteger al personal."
+    },
+    {
+      "term": "Derecho a la movilidad voluntaria",
+      "definition": "Puede ejercerse mediante los procedimientos establecidos para acceder a plazas de otros centros o servicios de salud."
+    },
+    {
+      "term": "Deber de respetar la dignidad e intimidad",
+      "definition": "El personal debe tratar correctamente a usuarios, familiares y compañeros y preservar los derechos fundamentales del paciente."
+    },
+    {
+      "term": "Deber de confidencialidad",
+      "definition": "Obliga a mantener la reserva sobre la información conocida por razón del trabajo y sobre los datos de los usuarios."
+    },
+    {
+      "term": "Deber de cumplir las instrucciones profesionales",
+      "definition": "Deben atenderse las órdenes legítimas de los superiores dentro de las funciones propias y del ordenamiento jurídico."
+    },
+    {
+      "term": "Deber de uso eficiente de recursos",
+      "definition": "El personal debe utilizar instalaciones, materiales y medios con criterios de eficacia, economía y cuidado."
+    },
+    {
+      "term": "Renuncia a la condición de fijo",
+      "definition": "Es una causa de pérdida que debe solicitarse formalmente y ser aceptada, salvo que exista un procedimiento disciplinario o penal que lo impida."
+    },
+    {
+      "term": "Pérdida de la nacionalidad exigida",
+      "definition": "Produce la pérdida de la condición fija, salvo que se adquiera simultáneamente otra nacionalidad que permita mantenerla."
+    },
+    {
+      "term": "Separación del servicio",
+      "definition": "La sanción disciplinaria firme con este alcance determina la pérdida de la condición de personal estatutario fijo."
+    },
+    {
+      "term": "Otras causas de pérdida de la condición fija",
+      "definition": "La jubilación, la incapacidad permanente en los términos legales y la pena de inhabilitación firme pueden extinguirla."
+    }
+  ]
+}

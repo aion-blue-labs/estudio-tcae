@@ -1,0 +1,112 @@
+{
+  "tema_num": 7,
+  "tag": "DATOS Y DERECHOS DEL PACIENTE · TEMA 7",
+  "tema_default": "legislacion",
+  "fuentes": [
+    "Reglamento (UE) 2016/679, Reglamento General de Protección de Datos",
+    "Ley Orgánica 3/2018, de protección de datos personales y garantía de los derechos digitales",
+    "Ley 41/2002, básica reguladora de la autonomía del paciente, texto consolidado"
+  ],
+  "facts": [
+    {
+      "term": "Datos relativos a la salud",
+      "definition": "Son una categoría especial de datos personales y requieren una protección reforzada."
+    },
+    {
+      "term": "Principio de licitud del tratamiento",
+      "definition": "Los datos sanitarios solo pueden tratarse cuando exista una base jurídica válida y se respeten las garantías aplicables."
+    },
+    {
+      "term": "Minimización de datos",
+      "definition": "Solo deben manejarse los datos adecuados, pertinentes y limitados a lo necesario para la finalidad asistencial o legítima."
+    },
+    {
+      "term": "Limitación de la finalidad",
+      "definition": "La información recogida para una finalidad determinada no debe usarse de forma incompatible con ella."
+    },
+    {
+      "term": "Exactitud de los datos",
+      "definition": "La información personal debe mantenerse correcta y actualizada, rectificando sin demora los errores relevantes."
+    },
+    {
+      "term": "Integridad y confidencialidad de los datos",
+      "definition": "Exigen medidas que eviten accesos, modificaciones, pérdidas o divulgaciones no autorizadas."
+    },
+    {
+      "term": "Secreto profesional sanitario",
+      "definition": "Obliga a no revelar la información conocida por razón del trabajo, incluso después de finalizar la relación profesional."
+    },
+    {
+      "term": "Acceso por necesidad asistencial",
+      "definition": "Cada profesional debe consultar únicamente la información necesaria para las funciones que tiene asignadas."
+    },
+    {
+      "term": "Responsable del tratamiento",
+      "definition": "Es quien determina los fines y los medios del tratamiento de datos personales."
+    },
+    {
+      "term": "Delegado de Protección de Datos",
+      "definition": "Asesora y supervisa el cumplimiento de la normativa y actúa como punto de contacto con interesados y autoridad de control."
+    },
+    {
+      "term": "Derecho de acceso a datos personales",
+      "definition": "Permite saber si se tratan datos propios y obtener información y copia en los términos legalmente establecidos."
+    },
+    {
+      "term": "Derecho de rectificación",
+      "definition": "Permite solicitar que se corrijan datos personales inexactos o se completen los incompletos."
+    },
+    {
+      "term": "Titular del derecho a la información asistencial",
+      "definition": "El paciente es el titular principal; también pueden ser informadas las personas vinculadas si él lo permite expresa o tácitamente."
+    },
+    {
+      "term": "Información asistencial comprensible",
+      "definition": "Debe comunicarse de manera verdadera, adecuada a las necesidades del paciente y útil para que pueda decidir libremente."
+    },
+    {
+      "term": "Derecho a no recibir información",
+      "definition": "Debe respetarse la voluntad del paciente de no ser informado, salvo los límites previstos por la ley y dejando constancia."
+    },
+    {
+      "term": "Consentimiento informado como regla general",
+      "definition": "Es verbal, libre y voluntario después de recibir información suficiente, salvo los supuestos que exigen forma escrita."
+    },
+    {
+      "term": "Consentimiento informado escrito",
+      "definition": "Se exige para intervención quirúrgica, procedimientos diagnósticos o terapéuticos invasores y actuaciones con riesgos notorios previsibles."
+    },
+    {
+      "term": "Revocación del consentimiento",
+      "definition": "El paciente puede retirarlo libremente por escrito en cualquier momento."
+    },
+    {
+      "term": "Consentimiento por representación",
+      "definition": "Se utiliza en los supuestos legales cuando el paciente no puede decidir, procurando que participe en la medida de lo posible."
+    },
+    {
+      "term": "Excepción por riesgo inmediato grave",
+      "definition": "Puede realizarse una intervención indispensable sin consentimiento si existe riesgo inmediato grave y no es posible obtener autorización."
+    },
+    {
+      "term": "Instrucciones previas",
+      "definition": "Permiten a una persona mayor de edad, capaz y libre expresar anticipadamente su voluntad sobre cuidados y tratamientos futuros."
+    },
+    {
+      "term": "Finalidad principal de la historia clínica",
+      "definition": "Facilitar la asistencia dejando constancia veraz y actualizada de la información necesaria para conocer el estado de salud."
+    },
+    {
+      "term": "Acceso del paciente a su historia clínica",
+      "definition": "Puede ejercerlo y obtener copia, respetando la confidencialidad de terceros y la reserva de las anotaciones subjetivas profesionales."
+    },
+    {
+      "term": "Conservación mínima de documentación clínica",
+      "definition": "Debe guardarse al menos cinco años desde la fecha de alta de cada proceso asistencial, sin perjuicio de plazos superiores aplicables."
+    },
+    {
+      "term": "Acceso a la historia de una persona fallecida",
+      "definition": "Puede permitirse a personas vinculadas por razones familiares o de hecho, salvo prohibición expresa del fallecido y con los límites legales."
+    }
+  ]
+}
