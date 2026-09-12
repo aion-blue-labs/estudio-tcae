@@ -1,7 +1,7 @@
 {
   "name": "TCAE Pro · Preparación SERGAS",
   "short_name": "TCAE Pro",
-  "description": "Practica el examen TCAE del SERGAS: 1065 preguntas con corrección al momento, repaso espaciado y simulacros cronometrados.",
+  "description": "Practica el examen TCAE del SERGAS: 1115 preguntas con corrección al momento, repaso espaciado y simulacros cronometrados.",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",
