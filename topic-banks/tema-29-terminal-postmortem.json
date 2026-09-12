@@ -1,0 +1,111 @@
+{
+  "tema_num": 29,
+  "tag": "ENFERMO TERMINAL Y POST MORTEM · TEMA 29",
+  "tema_default": "geriatria",
+  "fuentes": [
+    "Estrategia de Cuidados Paliativos del Sistema Nacional de Salud",
+    "Protocolos hospitalarios de cuidados al final de la vida y cuidados post mortem"
+  ],
+  "facts": [
+    {
+      "term": "Cuidados paliativos",
+      "definition": "Buscan mejorar calidad de vida y aliviar sufrimiento físico, psicológico, social y espiritual del paciente y su familia."
+    },
+    {
+      "term": "Situación de últimos días",
+      "definition": "Es una fase de deterioro irreversible cercano a la muerte que requiere priorizar confort y revisar objetivos de cuidado."
+    },
+    {
+      "term": "Fases de Kübler-Ross",
+      "definition": "Negación, ira, negociación, depresión y aceptación describen posibles respuestas, pero no aparecen siempre ni siguen un orden fijo."
+    },
+    {
+      "term": "Duelo",
+      "definition": "Es una respuesta personal y dinámica ante una pérdida que puede incluir reacciones emocionales, físicas, cognitivas, sociales y espirituales."
+    },
+    {
+      "term": "Escucha al paciente terminal",
+      "definition": "Debe permitir expresar miedos, preferencias y silencios sin imponer conversaciones ni ofrecer falsas seguridades."
+    },
+    {
+      "term": "Dolor en cuidados paliativos",
+      "definition": "Se valora regularmente, se administra el tratamiento prescrito y se combinan medidas de confort y posicionamiento."
+    },
+    {
+      "term": "Disnea al final de la vida",
+      "definition": "Puede aliviarse con posición incorporada, ambiente tranquilo, aire sobre la cara y tratamiento indicado, sin usar oxígeno automáticamente si no aporta beneficio."
+    },
+    {
+      "term": "Boca seca en el paciente terminal",
+      "definition": "Se alivia con higiene oral frecuente, humectación de mucosas y labios y pequeñas cantidades seguras si puede deglutir."
+    },
+    {
+      "term": "Estertores de últimos días",
+      "definition": "Se deben a secreciones que el paciente ya no elimina; se priorizan postura y medidas prescritas evitando aspiración agresiva rutinaria."
+    },
+    {
+      "term": "Alimentación en la agonía",
+      "definition": "No debe forzarse; se ofrece según deseo y seguridad, explicando a la familia que la menor ingesta forma parte del proceso."
+    },
+    {
+      "term": "Confort postural",
+      "definition": "Utiliza cambios suaves, apoyo con almohadas y cuidado de piel, evitando movilizaciones dolorosas o sin beneficio."
+    },
+    {
+      "term": "Signos de muerte inminente",
+      "definition": "Pueden incluir somnolencia profunda, menor ingesta, debilidad extrema, respiración irregular, menor diuresis y cambios circulatorios."
+    },
+    {
+      "term": "Respiración de Cheyne-Stokes",
+      "definition": "Alterna aumento y disminución progresiva de la respiración con períodos de apnea y puede aparecer cerca del final de la vida."
+    },
+    {
+      "term": "Apoyo a la familia durante la agonía",
+      "definition": "Incluye explicar cambios esperables con lenguaje sencillo, facilitar presencia y respetar rituales y decisiones posibles."
+    },
+    {
+      "term": "Intimidad al final de la vida",
+      "definition": "Debe protegerse limitando interrupciones, cuidando exposición corporal y respetando preferencias culturales y espirituales."
+    },
+    {
+      "term": "Confirmación de la muerte",
+      "definition": "Corresponde al profesional facultativo conforme a la normativa; los cuidados post mortem comienzan después de la indicación procedente."
+    },
+    {
+      "term": "Cuidados post mortem",
+      "definition": "Preparan el cuerpo con dignidad para su identificación y traslado, respetando protocolo, creencias y requisitos legales."
+    },
+    {
+      "term": "Precauciones post mortem",
+      "definition": "Se mantienen las precauciones estándar y las adicionales necesarias porque algunos agentes pueden seguir siendo transmisibles."
+    },
+    {
+      "term": "Posición inicial del cadáver",
+      "definition": "Se coloca habitualmente en decúbito supino, alineado y con la cabeza ligeramente elevada antes de que aparezca rigidez."
+    },
+    {
+      "term": "Identificación del cadáver",
+      "definition": "Debe mantenerse inequívoca conforme al protocolo durante preparación, documentación y traslado."
+    },
+    {
+      "term": "Retirada de sondas y catéteres post mortem",
+      "definition": "Solo se realiza si está autorizada por el protocolo; en casos judiciales o autopsia puede estar expresamente prohibida."
+    },
+    {
+      "term": "Caso médico-legal",
+      "definition": "Obliga a preservar cuerpo, ropa y dispositivos y a evitar manipulaciones no autorizadas que alteren posibles evidencias."
+    },
+    {
+      "term": "Pertenencias del fallecido",
+      "definition": "Se inventarían y entregan o custodian con identificación, registro y firma según el procedimiento del centro."
+    },
+    {
+      "term": "Traslado al mortuorio",
+      "definition": "Se realiza con documentación e identificación completas, discreción, seguridad y respeto a los circuitos establecidos."
+    },
+    {
+      "term": "Atención a la familia tras el fallecimiento",
+      "definition": "Requiere trato respetuoso, tiempo, privacidad, información práctica y derivación al profesional adecuado para dudas clínicas o legales."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "tema_num": 28,
+  "tag": "PACIENTE CRÍTICO Y URGENCIAS · TEMA 28",
+  "tema_default": "urgencias",
+  "fuentes": [
+    "Protocolos de atención al paciente crítico y organización de servicios de urgencias",
+    "Sistema Español de Triaje y Sistema de Triaje Manchester"
+  ],
+  "facts": [
+    {
+      "term": "Paciente crítico",
+      "definition": "Presenta o puede presentar una alteración grave de funciones vitales y necesita vigilancia y tratamiento continuos."
+    },
+    {
+      "term": "Unidad de Cuidados Intensivos",
+      "definition": "Es un área de alta complejidad con monitorización continua, soporte vital y personal especializado."
+    },
+    {
+      "term": "Servicio de Urgencias",
+      "definition": "Atiende procesos que requieren valoración y respuesta no demorable, ordenados según gravedad y necesidad clínica."
+    },
+    {
+      "term": "Triaje hospitalario",
+      "definition": "Clasifica la prioridad asistencial según riesgo y urgencia, no por orden de llegada ni por diagnóstico definitivo."
+    },
+    {
+      "term": "Nivel rojo de triaje",
+      "definition": "Indica una emergencia con atención inmediata por compromiso vital real o inminente."
+    },
+    {
+      "term": "Nivel naranja de triaje",
+      "definition": "Indica una situación muy urgente con riesgo importante que requiere valoración en pocos minutos."
+    },
+    {
+      "term": "Nivel amarillo de triaje",
+      "definition": "Corresponde a un problema urgente que necesita atención prioritaria pero permite una espera limitada."
+    },
+    {
+      "term": "Niveles verde y azul de triaje",
+      "definition": "Identifican problemas de menor urgencia, siempre sujetos a reevaluación si cambia el estado del paciente."
+    },
+    {
+      "term": "Reevaluación en triaje",
+      "definition": "Debe realizarse durante la espera porque la prioridad puede aumentar si aparecen nuevos signos o empeoramiento."
+    },
+    {
+      "term": "Monitorización básica",
+      "definition": "Incluye observar y registrar constantes, saturación, conciencia y otros parámetros indicados, relacionándolos con el estado clínico."
+    },
+    {
+      "term": "Alarma de monitor",
+      "definition": "Nunca debe ignorarse o silenciarse sin comprobar primero al paciente, la señal y la causa posible."
+    },
+    {
+      "term": "Preparación para monitorización electrocardiográfica",
+      "definition": "Incluye preservar intimidad, preparar piel si está indicado y colocar o facilitar electrodos según el esquema del equipo."
+    },
+    {
+      "term": "Observación del nivel de conciencia",
+      "definition": "Un cambio brusco de respuesta, orientación o conducta es un signo de alarma que debe comunicarse inmediatamente."
+    },
+    {
+      "term": "Mantenimiento externo de vías y catéteres",
+      "definition": "Consiste en evitar tracciones y acodamientos, revisar fijación y apósito y comunicar fugas, dolor, edema o desconexión."
+    },
+    {
+      "term": "Manipulación de una vía vascular",
+      "definition": "Debe limitarse a profesionales y actuaciones autorizadas, con técnica aséptica y sin desconexiones innecesarias."
+    },
+    {
+      "term": "Aspiración de secreciones",
+      "definition": "El TCAE prepara material y colabora; la realización depende de competencia, indicación y protocolo, vigilando hipoxia y tolerancia."
+    },
+    {
+      "term": "Higiene del paciente crítico",
+      "definition": "Se agrupan cuidados, se vigilan dispositivos y estabilidad y se evita fatiga, hipotermia y desconexiones."
+    },
+    {
+      "term": "Prevención de lesiones por presión en UCI",
+      "definition": "Requiere valoración frecuente, cambios individualizados, descarga de talones, cuidado de piel y superficies adecuadas."
+    },
+    {
+      "term": "Balance hídrico en críticos",
+      "definition": "Exige medir y registrar con precisión entradas y salidas en los intervalos indicados y comunicar cambios relevantes."
+    },
+    {
+      "term": "Muestra urgente",
+      "definition": "Debe identificarse y enviarse inmediatamente por el circuito prioritario, avisando de incidencias o demoras."
+    },
+    {
+      "term": "Prevención de infección en UCI",
+      "definition": "Se apoya en higiene de manos, técnica aséptica, limpieza, precauciones y reducción de manipulaciones de dispositivos."
+    },
+    {
+      "term": "Preparación de un box de Urgencias",
+      "definition": "Incluye comprobar limpieza, oxígeno, aspiración, monitor, camilla, material básico y reposición antes de recibir al paciente."
+    },
+    {
+      "term": "Traslado del paciente crítico",
+      "definition": "Se planifica con personal y equipos adecuados, asegurando vía aérea, monitorización, dispositivos, documentación y comunicación."
+    },
+    {
+      "term": "Apoyo a la familia en UCI",
+      "definition": "Consiste en acogida, escucha y orientación práctica, remitiendo la información clínica al profesional responsable."
+    },
+    {
+      "term": "Registro en Urgencias y UCI",
+      "definition": "Debe ser cronológico, preciso y oportuno porque cambios pequeños pueden tener gran relevancia clínica."
+    }
+  ]
+}

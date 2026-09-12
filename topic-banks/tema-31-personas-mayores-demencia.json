@@ -1,0 +1,112 @@
+{
+  "tema_num": 31,
+  "tag": "PERSONAS MAYORES Y DEMENCIA · TEMA 31",
+  "tema_default": "geriatria",
+  "fuentes": [
+    "Guías de atención a las personas mayores y prevención de la dependencia",
+    "Guías clínicas del Sistema Nacional de Salud sobre demencias y enfermedad de Alzheimer",
+    "Recomendaciones de atención centrada en la persona"
+  ],
+  "facts": [
+    {
+      "term": "Envejecimiento normal",
+      "definition": "Es un proceso heterogéneo que produce cambios graduales, pero no implica necesariamente enfermedad, demencia ni dependencia."
+    },
+    {
+      "term": "Cambios cutáneos del envejecimiento",
+      "definition": "La piel suele volverse más fina, seca y frágil, con menor elasticidad y reparación más lenta."
+    },
+    {
+      "term": "Cambios musculoesqueléticos del envejecimiento",
+      "definition": "Pueden incluir menor masa y fuerza muscular, rigidez y reducción de densidad ósea, aumentando riesgo de caídas."
+    },
+    {
+      "term": "Cambios sensoriales en la vejez",
+      "definition": "La visión y audición pueden disminuir y exigen adaptar luz, distancia, ritmo, ayudas técnicas y comunicación."
+    },
+    {
+      "term": "Fragilidad",
+      "definition": "Es una disminución de la reserva fisiológica que aumenta vulnerabilidad ante enfermedades, caídas y otros factores estresantes."
+    },
+    {
+      "term": "Síndrome de inmovilidad",
+      "definition": "Produce deterioro por reducción mantenida del movimiento y puede afectar músculo, piel, respiración, circulación, eliminación y ánimo."
+    },
+    {
+      "term": "Prevención del inmovilismo",
+      "definition": "Incluye movilización precoz, ejercicio adaptado, cambios posturales, buen control de dolor y participación en actividades cotidianas."
+    },
+    {
+      "term": "Caídas en personas mayores",
+      "definition": "Suelen tener causas múltiples como debilidad, fármacos, alteraciones sensoriales, hipotensión y riesgos ambientales."
+    },
+    {
+      "term": "Prevención de caídas",
+      "definition": "Combina calzado seguro, entorno despejado, luz adecuada, ayudas al alcance, revisión clínica y acompañamiento según riesgo."
+    },
+    {
+      "term": "Incontinencia urinaria",
+      "definition": "Es cualquier pérdida involuntaria de orina y debe valorarse porque no es una consecuencia inevitable de la edad."
+    },
+    {
+      "term": "Cuidados ante incontinencia",
+      "definition": "Incluyen acceso programado al baño, registro del patrón, higiene suave, protección cutánea y productos absorbentes adecuados."
+    },
+    {
+      "term": "Polimedicación",
+      "definition": "Aumenta el riesgo de interacciones, reacciones adversas, confusión y caídas y requiere revisión periódica."
+    },
+    {
+      "term": "Delirium en la persona mayor",
+      "definition": "Es un cambio agudo y fluctuante de atención y conciencia, a menudo reversible, que obliga a buscar una causa médica."
+    },
+    {
+      "term": "Demencia",
+      "definition": "Es un deterioro adquirido de capacidades cognitivas que interfiere con la autonomía y no se explica únicamente por delirium."
+    },
+    {
+      "term": "Diferencia entre delirium y demencia",
+      "definition": "El primero suele comenzar de forma aguda y fluctuar; la segunda suele ser insidiosa y progresiva."
+    },
+    {
+      "term": "Enfermedad de Alzheimer",
+      "definition": "Es una enfermedad neurodegenerativa y la causa más frecuente de demencia, con deterioro progresivo."
+    },
+    {
+      "term": "Síntoma inicial frecuente del Alzheimer",
+      "definition": "La dificultad para aprender y recordar información reciente suele aparecer pronto, aunque la presentación varía."
+    },
+    {
+      "term": "Comunicación con demencia",
+      "definition": "Debe usar frases breves, una idea cada vez, tono sereno, contacto visual y tiempo suficiente para responder."
+    },
+    {
+      "term": "Corrección constante de una persona con demencia",
+      "definition": "Debe evitarse cuando solo genera angustia; se priorizan validación emocional, tranquilidad y redirección respetuosa."
+    },
+    {
+      "term": "Rutinas en la demencia",
+      "definition": "Los horarios y entornos previsibles reducen confusión y facilitan participación y autonomía."
+    },
+    {
+      "term": "Conductas que expresan malestar",
+      "definition": "Agitación o rechazo pueden indicar dolor, miedo, hambre, estreñimiento, infección, ruido u otra necesidad no cubierta."
+    },
+    {
+      "term": "Deambulación errante",
+      "definition": "Requiere valorar su causa y ofrecer un entorno seguro, actividad y supervisión sin recurrir automáticamente a sujeciones."
+    },
+    {
+      "term": "Estimulación cognitiva",
+      "definition": "Propone actividades adaptadas y significativas para mantener capacidades, interacción y bienestar sin examinar ni infantilizar."
+    },
+    {
+      "term": "Mantenimiento de la autonomía",
+      "definition": "Consiste en dar tiempo, adaptar la tarea y ayudar solo en lo necesario para conservar habilidades y autoestima."
+    },
+    {
+      "term": "Apoyo al cuidador familiar",
+      "definition": "Incluye escucha, educación práctica, detección de sobrecarga y orientación hacia recursos sanitarios y sociales."
+    }
+  ]
+}

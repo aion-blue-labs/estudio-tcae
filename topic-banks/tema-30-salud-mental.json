@@ -1,0 +1,112 @@
+{
+  "tema_num": 30,
+  "tag": "SALUD MENTAL · TEMA 30",
+  "tema_default": "geriatria",
+  "fuentes": [
+    "Estrategia de Salud Mental del Sistema Nacional de Salud",
+    "Protocolos de prevención del suicidio, desescalada y contención en centros sanitarios",
+    "Guías clínicas sobre trastornos mentales y adicciones"
+  ],
+  "facts": [
+    {
+      "term": "Trastorno depresivo",
+      "definition": "Puede causar ánimo bajo o pérdida de interés persistentes, junto con cambios de sueño, energía, culpa, concentración o ideas de muerte."
+    },
+    {
+      "term": "Trastorno de ansiedad",
+      "definition": "Produce miedo o preocupación excesivos con síntomas físicos y evitación que interfieren en la vida cotidiana."
+    },
+    {
+      "term": "Crisis de pánico",
+      "definition": "Es un episodio brusco de miedo intenso con síntomas físicos que requiere descartar causas médicas y ofrecer un entorno calmado."
+    },
+    {
+      "term": "Psicosis",
+      "definition": "Implica alteración del contacto con la realidad mediante delirios, alucinaciones, pensamiento desorganizado u otros síntomas."
+    },
+    {
+      "term": "Delirio psiquiátrico",
+      "definition": "Es una creencia falsa, fija y no compartida culturalmente que persiste pese a evidencias contrarias."
+    },
+    {
+      "term": "Alucinación",
+      "definition": "Es una percepción sin estímulo externo real que puede afectar a cualquier modalidad sensorial."
+    },
+    {
+      "term": "Esquizofrenia",
+      "definition": "Es un trastorno psicótico que puede combinar síntomas positivos, negativos, cognitivos y afectivos con evolución variable."
+    },
+    {
+      "term": "Síntoma negativo de esquizofrenia",
+      "definition": "Incluye reducción de expresión emocional, motivación, habla, placer o interacción social."
+    },
+    {
+      "term": "Agitación psicomotriz",
+      "definition": "Es un aumento desorganizado de actividad motora y tensión que puede deberse a causas psiquiátricas, médicas o tóxicas."
+    },
+    {
+      "term": "Valoración inicial de agitación",
+      "definition": "Prioriza seguridad y busca signos de hipoxia, hipoglucemia, dolor, delirium, intoxicación u otra causa médica urgente."
+    },
+    {
+      "term": "Desescalada ante agitación",
+      "definition": "Utiliza un interlocutor, tono calmado, distancia segura, reducción de estímulos, escucha, límites claros y opciones sencillas."
+    },
+    {
+      "term": "Conducta del profesional ante un delirio",
+      "definition": "No debe discutir ni reforzar la creencia; se reconoce la emoción, se ofrece realidad con respeto y se mantiene la seguridad."
+    },
+    {
+      "term": "Conducta ante alucinaciones",
+      "definition": "Se pregunta por su contenido y riesgo, se evita confirmar que sean reales y se orienta a estímulos del entorno."
+    },
+    {
+      "term": "Preguntar por ideas de suicidio",
+      "definition": "Hacerlo de forma directa y respetuosa no induce la conducta y ayuda a detectar riesgo y activar protección."
+    },
+    {
+      "term": "Riesgo suicida inminente",
+      "definition": "Requiere no dejar sola a la persona, retirar medios peligrosos si es seguro, avisar inmediatamente y seguir el protocolo."
+    },
+    {
+      "term": "Secreto profesional ante riesgo grave",
+      "definition": "La seguridad puede exigir comunicar la información mínima necesaria al equipo responsable cuando existe peligro serio para la persona o terceros."
+    },
+    {
+      "term": "Contención mecánica",
+      "definition": "Es una medida excepcional y de último recurso para prevenir un daño inmediato cuando han fallado alternativas menos restrictivas."
+    },
+    {
+      "term": "Contención como castigo",
+      "definition": "Está prohibida y nunca debe utilizarse por conveniencia, falta de personal, disciplina o respuesta a una conducta molesta."
+    },
+    {
+      "term": "Vigilancia durante contención",
+      "definition": "Debe ser continua o con la frecuencia protocolizada, controlando respiración, circulación, piel, posición, necesidades y estado mental."
+    },
+    {
+      "term": "Registro de una contención",
+      "definition": "Debe documentar indicación, alternativas intentadas, inicio, controles, incidencias, reevaluaciones y retirada."
+    },
+    {
+      "term": "Contención farmacológica",
+      "definition": "Es la administración de medicación para controlar agitación grave y requiere prescripción, vigilancia y reevaluación clínica."
+    },
+    {
+      "term": "Drogodependencia",
+      "definition": "Es un patrón de consumo con pérdida de control, prioridad de la sustancia y persistencia pese a consecuencias perjudiciales."
+    },
+    {
+      "term": "Síndrome de abstinencia",
+      "definition": "Es el conjunto de síntomas que aparece al reducir o suspender una sustancia tras consumo repetido y adaptación del organismo."
+    },
+    {
+      "term": "Abstinencia alcohólica grave",
+      "definition": "Puede causar convulsiones o delirium tremens y constituye una urgencia que requiere vigilancia y tratamiento."
+    },
+    {
+      "term": "Atención sin estigma",
+      "definition": "Exige lenguaje respetuoso, privacidad y el mismo acceso a cuidados físicos y mentales que cualquier otra persona."
+    }
+  ]
+}
