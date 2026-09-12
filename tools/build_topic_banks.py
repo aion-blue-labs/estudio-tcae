@@ -127,7 +127,7 @@ def decode_after(source: str, marker: str):
 def main() -> None:
     html = INDEX.read_text(encoding="utf-8")
     data, data_start, data_end = decode_after(html, "const DATA  = ")
-    topic_sim = re.compile(r"T(?:[2-9]|[12]\d|3[01])")
+    topic_sim = re.compile(r"T(?:[2-9]|[12]\d|3[01])|IR")
     existing = [q for q in data if not topic_sim.fullmatch(str(q.get("sim", "")))]
 
     generated = []
@@ -136,6 +136,22 @@ def main() -> None:
         spec = json.loads(path.read_text(encoding="utf-8"))
         specs.append(spec)
         generated.extend(generate_bank(spec))
+
+    reinforcement_path = BANK_DIR / "instrumental-refuerzo.json"
+    reinforcement = json.loads(reinforcement_path.read_text(encoding="utf-8"))
+    if len(reinforcement) != 12:
+        raise ValueError(f"Refuerzo instrumental: se esperaban 12 preguntas, hay {len(reinforcement)}")
+    for i, q in enumerate(reinforcement, 1):
+        item = dict(q)
+        item.update({
+            "sim": "IR",
+            "tag": "INSTRUMENTAL · REFUERZO",
+            "n": f"IR{i}",
+            "caso": item.get("caso", ""),
+            "tema": "instrumental",
+            "bloque": THEME_LABELS["instrumental"],
+        })
+        generated.append(item)
 
     expected_numbers = {int(s["tema_num"]) for s in specs}
     if expected_numbers != set(range(2, 32)):
@@ -166,7 +182,7 @@ def main() -> None:
 
     sw_path = ROOT / "sw.js"
     sw = sw_path.read_text(encoding="utf-8")
-    sw = re.sub(r"tcae-v[^'\"]+", f"tcae-v{version}", sw, count=1)
+    sw = re.sub(r"const VERSION = '[^']+';", f"const VERSION = '{version}';", sw, count=1)
     sw_path.write_text(sw, encoding="utf-8")
 
     manifest_path = ROOT / "manifest.webmanifest"

@@ -1,0 +1,74 @@
+[
+  {
+    "q": "¿A qué tiempo quirúrgico pertenece la pinza Pean?",
+    "opts": ["Diéresis", "Hemostasia", "Separación", "Síntesis"],
+    "correct": 1,
+    "expl": "La pinza Pean es una pinza hemostática utilizada para comprimir vasos o pedículos y controlar el sangrado."
+  },
+  {
+    "q": "¿Qué instrumento de aprehensión atraumática y fenestrada se usa para sujetar tejidos delicados, como pulmón?",
+    "opts": ["Pinza Duval", "Pinza Kocher", "Pinza Mosquito", "Tijera Mayo"],
+    "correct": 0,
+    "expl": "La pinza Duval es fenestrada y atraumática, adecuada para sujetar tejidos delicados sin aplastarlos."
+  },
+  {
+    "q": "El separador de Volkmann se reconoce por ser:",
+    "opts": ["Un portaagujas corto", "Una pinza de campo", "Un separador manual con varios dientes", "Un separador costal autoestático"],
+    "correct": 2,
+    "expl": "Volkmann es un separador manual con extremos en forma de rastrillo y varios dientes."
+  },
+  {
+    "q": "¿Para qué se utiliza principalmente el separador Finochietto?",
+    "opts": ["Separar bordes costales en cirugía torácica", "Sujetar campos quirúrgicos", "Cortar tejido delicado", "Ocluir vasos pequeños"],
+    "correct": 0,
+    "expl": "Finochietto es un separador autoestático costal empleado para mantener abierto el tórax."
+  },
+  {
+    "q": "¿Qué separador autoestático se asocia especialmente con la exposición de la cavidad abdominal?",
+    "opts": ["Farabeuf", "Gosset", "Volkmann", "Deaver manual"],
+    "correct": 1,
+    "expl": "Gosset es un separador autoestático usado habitualmente para mantener expuesto el campo abdominal."
+  },
+  {
+    "q": "El Mayo-Hegar pertenece al instrumental de:",
+    "opts": ["Hemostasia", "Aprehensión", "Síntesis", "Diéresis"],
+    "correct": 2,
+    "expl": "Mayo-Hegar es un portaagujas y, por tanto, forma parte del instrumental de síntesis o sutura."
+  },
+  {
+    "q": "Las pinzas Backhaus, empleadas para fijar los paños quirúrgicos, se clasifican como instrumental de:",
+    "opts": ["Campo o aprehensión", "Hemostasia", "Diéresis", "Síntesis"],
+    "correct": 0,
+    "expl": "Backhaus es una pinza de campo que sujeta los paños; funcionalmente se incluye en talla o aprehensión."
+  },
+  {
+    "q": "¿Cuál es el criterio principal para ordenar el instrumental de uso inmediato en la mesa de Mayo?",
+    "opts": ["El precio de cada pieza", "La secuencia prevista de los tiempos quirúrgicos", "El tamaño del embalaje", "El orden alfabético"],
+    "correct": 1,
+    "expl": "La mesa de Mayo se organiza de forma visible y segura según el orden previsto de utilización y los tiempos quirúrgicos."
+  },
+  {
+    "q": "Respecto a la mesa de Mayo estéril, ¿qué debe hacer el TCAE que actúa como auxiliar circulante no estéril?",
+    "opts": ["Montarla tocando el instrumental con guantes limpios", "Reordenarla durante la cirugía", "Apoyar sobre ella material cerrado", "Colaborar desde fuera sin tocar el campo estéril"],
+    "correct": 3,
+    "expl": "El circulante no estéril facilita y abre material de forma segura, pero no toca ni reorganiza la mesa estéril."
+  },
+  {
+    "q": "¿Qué instrumental puede procesarse habitualmente en autoclave a 134 °C?",
+    "opts": ["Material metálico compatible con calor y humedad", "Todo endoscopio flexible", "Cualquier material de un solo uso", "Material electrónico sin autorización del fabricante"],
+    "correct": 0,
+    "expl": "El vapor a 134 °C es adecuado para instrumental metálico y otros productos que el fabricante declare resistentes al calor y la humedad."
+  },
+  {
+    "q": "Ante una óptica o dispositivo termosensible, el método de esterilización debe elegirse según:",
+    "opts": ["El color del dispositivo", "La preferencia del paciente", "Las instrucciones del fabricante y el ciclo validado", "El tamaño de la caja únicamente"],
+    "correct": 2,
+    "expl": "No todos los dispositivos termosensibles toleran los mismos agentes; deben seguirse instrucciones del fabricante y protocolos validados."
+  },
+  {
+    "q": "¿Qué característica diferencia al óxido de etileno de muchos ciclos de plasma de peróxido de hidrógeno?",
+    "opts": ["El óxido de etileno no esteriliza", "El óxido de etileno requiere una aireación prolongada por sus residuos tóxicos", "El plasma se usa siempre a 134 °C", "Ambos sirven para líquidos y celulosa sin limitaciones"],
+    "correct": 1,
+    "expl": "El óxido de etileno trabaja a baja temperatura, pero es tóxico y exige aireación; el plasma tiene otras limitaciones de compatibilidad."
+  }
+]
