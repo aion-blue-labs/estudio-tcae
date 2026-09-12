@@ -1,0 +1,112 @@
+{
+  "tema_num": 11,
+  "tag": "BIOÉTICA Y COMUNICACIÓN · TEMA 11",
+  "tema_default": "calidad",
+  "fuentes": [
+    "Convenio de Oviedo y Ley 41/2002 de autonomía del paciente",
+    "Principios de bioética de Beauchamp y Childress",
+    "Buenas prácticas de comunicación asistencial y humanización del Sistema Nacional de Salud"
+  ],
+  "facts": [
+    {
+      "term": "Principio de autonomía",
+      "definition": "Obliga a respetar las decisiones libres e informadas de la persona capaz sobre su propia salud."
+    },
+    {
+      "term": "Principio de beneficencia",
+      "definition": "Orienta la actuación a procurar el bien y el beneficio clínico del paciente."
+    },
+    {
+      "term": "Principio de no maleficencia",
+      "definition": "Exige evitar daños innecesarios o desproporcionados derivados de la atención."
+    },
+    {
+      "term": "Principio de justicia",
+      "definition": "Requiere distribuir recursos, riesgos y beneficios con equidad y sin discriminación."
+    },
+    {
+      "term": "Dignidad del paciente",
+      "definition": "Implica reconocer el valor intrínseco de toda persona y tratarla con respeto, intimidad y consideración."
+    },
+    {
+      "term": "Comunicación verbal",
+      "definition": "Utiliza palabras habladas o escritas y debe ser clara, comprensible, respetuosa y adaptada al receptor."
+    },
+    {
+      "term": "Comunicación no verbal",
+      "definition": "Incluye postura, gestos, mirada, distancia, contacto, expresión facial, tono y ritmo de voz."
+    },
+    {
+      "term": "Congruencia comunicativa",
+      "definition": "Existe cuando el mensaje verbal coincide con el tono, la expresión y el resto de señales no verbales."
+    },
+    {
+      "term": "Escucha activa",
+      "definition": "Consiste en atender sin interrumpir, observar, mostrar interés y comprobar que se comprendió el mensaje."
+    },
+    {
+      "term": "Empatía",
+      "definition": "Es comprender la experiencia y las emociones de la otra persona sin confundirlas con las propias."
+    },
+    {
+      "term": "Paráfrasis",
+      "definition": "Reformula con palabras propias lo que expresó el paciente para confirmar la comprensión."
+    },
+    {
+      "term": "Clarificación",
+      "definition": "Solicita precisión cuando un mensaje es ambiguo, incompleto o puede interpretarse de varias formas."
+    },
+    {
+      "term": "Pregunta abierta",
+      "definition": "Invita a responder con amplitud y facilita que la persona relate experiencias, necesidades o preocupaciones."
+    },
+    {
+      "term": "Pregunta cerrada",
+      "definition": "Busca un dato concreto o una respuesta breve y resulta útil para confirmar información específica."
+    },
+    {
+      "term": "Silencio terapéutico",
+      "definition": "Ofrece tiempo para pensar, expresar emociones o continuar el relato sin llenar de inmediato la pausa."
+    },
+    {
+      "term": "Retroalimentación",
+      "definition": "Permite comprobar cómo fue recibido el mensaje y corregir posibles errores de comprensión."
+    },
+    {
+      "term": "Relación de ayuda",
+      "definition": "Es una interacción profesional orientada a que el paciente exprese necesidades, movilice recursos y afronte mejor su situación."
+    },
+    {
+      "term": "Límites de la relación terapéutica",
+      "definition": "Mantienen el vínculo centrado en las necesidades del paciente y evitan dependencia, favoritismo o implicación personal inapropiada."
+    },
+    {
+      "term": "Comunicación con la familia",
+      "definition": "Debe respetar la voluntad y confidencialidad del paciente, ofrecer orientación dentro de la competencia propia y evitar información no autorizada."
+    },
+    {
+      "term": "Apoyo emocional",
+      "definition": "Incluye presencia, escucha, validación de sentimientos y ayuda práctica sin prometer resultados ni minimizar el sufrimiento."
+    },
+    {
+      "term": "Comunicación asertiva",
+      "definition": "Expresa necesidades, límites u opiniones con claridad y respeto, sin agresividad ni sumisión."
+    },
+    {
+      "term": "Desescalada verbal",
+      "definition": "Busca reducir tensión mediante tono calmado, distancia segura, escucha, mensajes breves, límites claros y opciones realistas."
+    },
+    {
+      "term": "Manejo inicial de una conducta agresiva",
+      "definition": "Prioriza seguridad, vía de salida, petición de ayuda, reducción de estímulos y evitación de retos o contacto físico innecesario."
+    },
+    {
+      "term": "Barreras de comunicación",
+      "definition": "Pueden ser físicas, sensoriales, lingüísticas, emocionales, culturales o derivadas de mensajes técnicos y contradictorios."
+    },
+    {
+      "term": "Comunicación con déficit sensorial",
+      "definition": "Debe adaptar iluminación, distancia, apoyos visuales o auditivos, ritmo y comprobación de la comprensión a la capacidad de la persona."
+    }
+  ]
+}

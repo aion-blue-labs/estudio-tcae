@@ -1,0 +1,112 @@
+{
+  "tema_num": 13,
+  "tag": "EPIDEMIOLOGÍA E INFECCIÓN NOSOCOMIAL · TEMA 13",
+  "tema_default": "infeccion",
+  "fuentes": [
+    "Organización Mundial de la Salud: prevención y control de infecciones",
+    "Protocolos de vigilancia epidemiológica del Sistema Nacional de Salud",
+    "Programas de vigilancia de infecciones relacionadas con la asistencia sanitaria"
+  ],
+  "facts": [
+    {
+      "term": "Cadena epidemiológica",
+      "definition": "Es la secuencia formada por agente, reservorio o fuente, puerta de salida, mecanismo de transmisión, puerta de entrada y huésped susceptible."
+    },
+    {
+      "term": "Agente infeccioso",
+      "definition": "Es el microorganismo capaz de producir una infección en condiciones adecuadas."
+    },
+    {
+      "term": "Reservorio",
+      "definition": "Es el hábitat donde el agente vive, se mantiene y puede multiplicarse."
+    },
+    {
+      "term": "Fuente de infección",
+      "definition": "Es la persona, animal, objeto o sustancia desde la que el agente pasa al huésped."
+    },
+    {
+      "term": "Puerta de salida",
+      "definition": "Es la vía por la que el microorganismo abandona la fuente, como secreciones respiratorias, sangre, heces o lesiones cutáneas."
+    },
+    {
+      "term": "Mecanismo de transmisión",
+      "definition": "Es la forma en que el agente se desplaza desde la fuente hasta un nuevo huésped."
+    },
+    {
+      "term": "Puerta de entrada",
+      "definition": "Es la vía por la que el agente penetra en el huésped, como mucosas, piel lesionada, vía respiratoria o dispositivos invasivos."
+    },
+    {
+      "term": "Huésped susceptible",
+      "definition": "Es la persona con capacidad insuficiente para resistir al agente por edad, enfermedad, inmunidad, tratamientos u otros factores."
+    },
+    {
+      "term": "Transmisión directa",
+      "definition": "Se produce sin intermediarios relevantes mediante contacto físico cercano, gotas a corta distancia u otra exposición inmediata."
+    },
+    {
+      "term": "Transmisión indirecta",
+      "definition": "Utiliza un vehículo, objeto, alimento, agua, vector o superficie contaminada entre la fuente y el huésped."
+    },
+    {
+      "term": "Transmisión por contacto",
+      "definition": "Puede ocurrir directamente entre personas o indirectamente a través de manos, equipos y superficies contaminadas."
+    },
+    {
+      "term": "Transmisión por gotas",
+      "definition": "Se debe a partículas respiratorias que suelen recorrer distancias cortas y alcanzan mucosas de una persona próxima."
+    },
+    {
+      "term": "Transmisión aérea",
+      "definition": "Se produce por partículas pequeñas que permanecen suspendidas y pueden desplazarse con las corrientes de aire."
+    },
+    {
+      "term": "Infección relacionada con la asistencia sanitaria",
+      "definition": "Es la adquirida durante la atención y que no estaba presente ni incubándose al inicio, aunque pueda manifestarse después del alta."
+    },
+    {
+      "term": "Infección nosocomial",
+      "definition": "Es la infección relacionada con una estancia o atención hospitalaria y no atribuible al proceso que motivó el ingreso."
+    },
+    {
+      "term": "Colonización",
+      "definition": "Es la presencia y multiplicación de microorganismos sin signos ni síntomas de infección."
+    },
+    {
+      "term": "Incidencia",
+      "definition": "Mide los casos nuevos que aparecen en una población durante un período determinado."
+    },
+    {
+      "term": "Prevalencia",
+      "definition": "Mide todos los casos existentes en una población en un momento o período, sean nuevos o antiguos."
+    },
+    {
+      "term": "Brote epidémico",
+      "definition": "Es la aparición de más casos de los esperados vinculados por tiempo, lugar o exposición común."
+    },
+    {
+      "term": "Vigilancia epidemiológica hospitalaria",
+      "definition": "Recoge, analiza e interpreta datos de infección para detectar problemas, orientar medidas y evaluar resultados."
+    },
+    {
+      "term": "Comisión de infecciones",
+      "definition": "Propone políticas de prevención, revisa datos, protocolos, brotes, resistencias y uso de antimicrobianos en el centro."
+    },
+    {
+      "term": "Declaración inicial de un posible brote",
+      "definition": "Debe comunicarse pronto al equipo responsable para verificar casos y aplicar medidas sin esperar a disponer de toda la investigación."
+    },
+    {
+      "term": "Definición de caso en un brote",
+      "definition": "Establece criterios clínicos, microbiológicos, temporales y espaciales uniformes para clasificar a los afectados."
+    },
+    {
+      "term": "Medidas de control de un brote",
+      "definition": "Pueden incluir aislamiento, higiene de manos, equipos de protección, limpieza, búsqueda de casos y control de la fuente."
+    },
+    {
+      "term": "Interrupción de la cadena epidemiológica",
+      "definition": "Puede lograrse actuando sobre la fuente, bloqueando la transmisión o protegiendo al huésped susceptible."
+    }
+  ]
+}

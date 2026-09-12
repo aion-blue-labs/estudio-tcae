@@ -1,0 +1,112 @@
+{
+  "tema_num": 9,
+  "tag": "TCAE EN EL SISTEMA SANITARIO · TEMA 9",
+  "tema_default": "calidad",
+  "fuentes": [
+    "Orden de 26 de abril de 1973, Estatuto del Personal Auxiliar Sanitario Titulado y Auxiliar de Clínica, artículos sobre funciones y prohibiciones",
+    "Ley 44/2003, de ordenación de las profesiones sanitarias",
+    "Estrategia de Seguridad del Paciente del Sistema Nacional de Salud"
+  ],
+  "facts": [
+    {
+      "term": "Función asistencial propia del TCAE",
+      "definition": "Comprende cuidados auxiliares básicos de higiene, confort, alimentación, eliminación, movilización y mantenimiento del entorno del paciente dentro de su competencia."
+    },
+    {
+      "term": "Actividad delegada al TCAE",
+      "definition": "Debe estar dentro de su competencia, ser indicada por el profesional responsable y realizarse con la supervisión adecuada."
+    },
+    {
+      "term": "Responsabilidad ante una delegación",
+      "definition": "El TCAE debe rechazar o consultar una orden si excede sus funciones, no es segura o no dispone de preparación suficiente."
+    },
+    {
+      "term": "Arreglo de la cama hospitalaria",
+      "definition": "Es una función auxiliar; si el estado del paciente exige movilización compleja se realiza con la ayuda y coordinación necesarias."
+    },
+    {
+      "term": "Higiene del paciente",
+      "definition": "El TCAE realiza o ayuda en el aseo, preserva intimidad y confort y comunica alteraciones observadas en piel o mucosas."
+    },
+    {
+      "term": "Distribución de comidas",
+      "definition": "Incluye comprobar la dieta indicada, colocar al paciente de forma segura, ayudar si lo necesita y registrar o comunicar la ingesta."
+    },
+    {
+      "term": "Cuidados de eliminación",
+      "definition": "Incluyen facilitar, retirar y limpiar cuñas u orinales, observar las eliminaciones y comunicar cambios relevantes."
+    },
+    {
+      "term": "Limpieza del material asistencial",
+      "definition": "El TCAE colabora en la recogida, limpieza, preparación, transporte y almacenamiento conforme al circuito y protocolo del centro."
+    },
+    {
+      "term": "Administración por vía parenteral",
+      "definition": "No corresponde al TCAE administrar inyecciones o medicación intravenosa."
+    },
+    {
+      "term": "Diagnóstico y prescripción",
+      "definition": "No son competencias del TCAE, que debe limitarse a observar, registrar y comunicar datos dentro de sus funciones."
+    },
+    {
+      "term": "Técnicas invasivas no atribuidas",
+      "definition": "El TCAE no debe realizar punciones, sondajes u otras técnicas reservadas a profesionales competentes, aunque sí preparar material y colaborar."
+    },
+    {
+      "term": "Auxiliar circulante de quirófano",
+      "definition": "Apoya fuera del campo estéril, prepara la sala, acerca material, gestiona suministros y colabora con el circuito de cajas e instrumental."
+    },
+    {
+      "term": "Cajas de instrumental quirúrgico",
+      "definition": "El TCAE puede colaborar en su identificación, transporte, preparación externa, recepción y envío al reprocesamiento según protocolo."
+    },
+    {
+      "term": "Campo estéril en quirófano",
+      "definition": "El personal circulante no estéril evita tocarlo y entrega o abre el material sin contaminarlo para que lo reciba el equipo estéril."
+    },
+    {
+      "term": "Equipo multidisciplinar de salud",
+      "definition": "Integra profesionales de diferentes disciplinas que aportan competencias complementarias para alcanzar objetivos comunes de atención."
+    },
+    {
+      "term": "Trabajo interdisciplinar",
+      "definition": "Implica coordinación real, intercambio de información y decisiones compartidas, manteniendo cada profesional sus responsabilidades."
+    },
+    {
+      "term": "Papel del TCAE en el equipo",
+      "definition": "Aporta observación continua de necesidades básicas, ejecuta cuidados auxiliares y comunica cambios al profesional responsable."
+    },
+    {
+      "term": "Continuidad asistencial",
+      "definition": "Se favorece transmitiendo información relevante, exacta y oportuna en cambios de turno, traslados y coordinación entre niveles."
+    },
+    {
+      "term": "Calidad asistencial",
+      "definition": "Es el grado en que la atención aumenta la probabilidad de resultados deseados y se ajusta al conocimiento profesional vigente."
+    },
+    {
+      "term": "Modelo de Donabedian",
+      "definition": "Evalúa la calidad mediante tres dimensiones: estructura, proceso y resultados."
+    },
+    {
+      "term": "Seguridad del paciente",
+      "definition": "Busca reducir a un mínimo aceptable el riesgo de daño innecesario asociado a la atención sanitaria."
+    },
+    {
+      "term": "Incidente de seguridad",
+      "definition": "Es un evento o circunstancia que podría haber causado o causó un daño innecesario al paciente."
+    },
+    {
+      "term": "Evento adverso",
+      "definition": "Es un incidente relacionado con la asistencia que produce daño al paciente."
+    },
+    {
+      "term": "Incidente sin daño",
+      "definition": "Alcanza al paciente pero no le causa lesión apreciable; debe analizarse porque revela una vulnerabilidad del sistema."
+    },
+    {
+      "term": "Identificación inequívoca del paciente",
+      "definition": "Debe comprobarse con al menos dos identificadores válidos antes de cuidados, muestras, medicación, traslado o procedimientos."
+    }
+  ]
+}

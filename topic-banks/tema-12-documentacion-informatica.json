@@ -1,0 +1,112 @@
+{
+  "tema_num": 12,
+  "tag": "DOCUMENTACIÓN E INFORMÁTICA · TEMA 12",
+  "tema_default": "calidad",
+  "fuentes": [
+    "Ley 41/2002 de autonomía del paciente",
+    "Ley 3/2001 de Galicia reguladora del consentimiento informado y de la historia clínica",
+    "Información institucional del SERGAS sobre Ianus y seguridad de la información"
+  ],
+  "facts": [
+    {
+      "term": "Documento clínico",
+      "definition": "Contiene información relevante sobre el estado de salud, las valoraciones, los cuidados, las pruebas o los tratamientos de un paciente."
+    },
+    {
+      "term": "Documento administrativo sanitario",
+      "definition": "Gestiona aspectos no clínicos como identificación, citas, admisión, facturación, traslados o circulación interna."
+    },
+    {
+      "term": "Historia clínica",
+      "definition": "Es el conjunto de documentos con datos, valoraciones e informaciones sobre la situación y evolución clínica a lo largo del proceso asistencial."
+    },
+    {
+      "term": "Finalidad asistencial de la historia clínica",
+      "definition": "Facilita una atención adecuada al permitir que los profesionales conozcan la información necesaria para decidir y cuidar."
+    },
+    {
+      "term": "Unicidad de la historia clínica",
+      "definition": "La información de una persona debe integrarse y vincularse correctamente para evitar historias duplicadas o fragmentadas."
+    },
+    {
+      "term": "Anamnesis",
+      "definition": "Recoge mediante entrevista antecedentes, síntomas, hábitos y otros datos relevantes referidos por el paciente."
+    },
+    {
+      "term": "Hoja de evolución clínica",
+      "definition": "Registra cronológicamente cambios, valoraciones y decisiones de los profesionales responsables."
+    },
+    {
+      "term": "Plan de cuidados de enfermería",
+      "definition": "Organiza problemas, objetivos, intervenciones y evaluación de los cuidados enfermeros."
+    },
+    {
+      "term": "Gráfica de hospitalización",
+      "definition": "Representa constantes, balances y otros datos evolutivos para facilitar su seguimiento durante el ingreso."
+    },
+    {
+      "term": "Informe de alta",
+      "definition": "Resume el proceso asistencial, diagnóstico, evolución, tratamiento y recomendaciones para la continuidad de cuidados."
+    },
+    {
+      "term": "Consentimiento informado escrito",
+      "definition": "Documenta la aceptación de determinados procedimientos después de informar sobre finalidad, riesgos, consecuencias y alternativas."
+    },
+    {
+      "term": "Informe quirúrgico",
+      "definition": "Deja constancia del procedimiento realizado, hallazgos, técnica, incidencias y profesionales participantes."
+    },
+    {
+      "term": "Registro de cuidados del TCAE",
+      "definition": "Debe ser objetivo, pertinente, legible, fechado, identificable y ajustado a las tareas realmente realizadas u observadas."
+    },
+    {
+      "term": "Corrección de un registro sanitario",
+      "definition": "Debe conservar la trazabilidad del dato original y de la rectificación, sin ocultar ni borrar indebidamente información."
+    },
+    {
+      "term": "Archivo activo",
+      "definition": "Conserva historias de pacientes con asistencia reciente o frecuente para permitir un acceso rápido."
+    },
+    {
+      "term": "Archivo pasivo",
+      "definition": "Custodia historias sin actividad reciente que deben mantenerse por razones legales, asistenciales o históricas."
+    },
+    {
+      "term": "Archivo centralizado",
+      "definition": "Reúne la documentación clínica en una única unidad o sistema para mejorar control, localización y custodia."
+    },
+    {
+      "term": "Archivo descentralizado",
+      "definition": "Distribuye la documentación entre distintos servicios o unidades, lo que exige coordinación para evitar pérdidas y duplicidades."
+    },
+    {
+      "term": "Conservación de la historia clínica",
+      "definition": "Debe garantizar seguridad, legibilidad y recuperación durante los plazos legales, al menos cinco años desde el alta de cada proceso."
+    },
+    {
+      "term": "Ianus",
+      "definition": "Es el sistema corporativo de historia clínica electrónica del SERGAS que integra información asistencial autorizada del paciente."
+    },
+    {
+      "term": "Acceso a Ianus",
+      "definition": "Debe hacerse con credenciales personales, perfil autorizado y una necesidad profesional relacionada con la atención o función asignada."
+    },
+    {
+      "term": "Trazabilidad informática",
+      "definition": "Permite conocer quién accedió o modificó información, en qué momento y mediante qué operación."
+    },
+    {
+      "term": "Bloqueo de sesión informática",
+      "definition": "Debe realizarse al abandonar el puesto para impedir que otra persona utilice una sesión abierta."
+    },
+    {
+      "term": "Contraseña corporativa",
+      "definition": "Es personal e intransferible y no debe compartirse, anotarse de forma visible ni enviarse por canales no autorizados."
+    },
+    {
+      "term": "Copia de seguridad",
+      "definition": "Es una duplicación controlada de datos que permite recuperarlos ante fallos, pérdidas o incidentes del sistema."
+    }
+  ]
+}

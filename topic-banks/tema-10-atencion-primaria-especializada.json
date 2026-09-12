@@ -1,0 +1,112 @@
+{
+  "tema_num": 10,
+  "tag": "ATENCIÓN PRIMARIA Y ESPECIALIZADA · TEMA 10",
+  "tema_default": "calidad",
+  "fuentes": [
+    "Ley 14/1986, General de Sanidad",
+    "Cartera común de servicios del Sistema Nacional de Salud",
+    "Organización asistencial del Servizo Galego de Saúde"
+  ],
+  "facts": [
+    {
+      "term": "Atención Primaria",
+      "definition": "Es el nivel básico e inicial de atención, accesible y continuado, que coordina el recorrido del paciente por el sistema."
+    },
+    {
+      "term": "Zona Básica de Salud en Atención Primaria",
+      "definition": "Es el ámbito territorial de actuación del equipo de atención primaria."
+    },
+    {
+      "term": "Centro de Salud como estructura asistencial",
+      "definition": "Es la estructura física y funcional donde el equipo desarrolla de forma coordinada buena parte de la atención primaria."
+    },
+    {
+      "term": "Composición del Equipo de Atención Primaria",
+      "definition": "Está formado por profesionales sanitarios y no sanitarios que atienden de manera coordinada a la población de una zona."
+    },
+    {
+      "term": "Accesibilidad en Atención Primaria",
+      "definition": "Busca que la población pueda obtener atención próxima y sin barreras injustificadas."
+    },
+    {
+      "term": "Longitudinalidad asistencial",
+      "definition": "Supone mantener la atención y el seguimiento de la persona a lo largo del tiempo."
+    },
+    {
+      "term": "Atención integral en el centro de salud",
+      "definition": "Incluye promoción, prevención, asistencia, rehabilitación básica y atención a problemas agudos y crónicos."
+    },
+    {
+      "term": "Atención domiciliaria",
+      "definition": "Acerca cuidados y seguimiento al domicilio cuando la situación clínica, funcional o social impide o desaconseja acudir al centro."
+    },
+    {
+      "term": "TCAE en una consulta de Atención Primaria",
+      "definition": "Prepara sala y material, acoge al paciente, colabora en técnicas autorizadas, repone existencias y limpia el equipamiento."
+    },
+    {
+      "term": "TCAE y educación para la salud",
+      "definition": "Colabora reforzando indicaciones del equipo con mensajes claros y coherentes, sin sustituir la valoración ni el consejo profesional."
+    },
+    {
+      "term": "Circuito de muestras en Atención Primaria",
+      "definition": "Exige identificar, conservar y transportar las muestras siguiendo el protocolo y evitando demoras o contaminaciones."
+    },
+    {
+      "term": "Atención Especializada",
+      "definition": "Es el nivel que atiende problemas que requieren medios diagnósticos, terapéuticos o profesionales de mayor complejidad."
+    },
+    {
+      "term": "Hospital",
+      "definition": "Es el establecimiento que presta internamiento, urgencias, consultas, diagnóstico, tratamiento, rehabilitación, docencia e investigación."
+    },
+    {
+      "term": "Área de hospitalización",
+      "definition": "Se organiza en unidades con camas y recursos para la atención continuada de pacientes ingresados."
+    },
+    {
+      "term": "Consultas externas hospitalarias",
+      "definition": "Atienden de forma ambulatoria a pacientes que necesitan valoración o seguimiento especializado sin ingreso."
+    },
+    {
+      "term": "Hospital de día",
+      "definition": "Permite administrar tratamientos o realizar procedimientos programados durante varias horas sin ingreso convencional."
+    },
+    {
+      "term": "Servicio de Admisión",
+      "definition": "Gestiona ingresos, altas, citas, traslados y datos administrativos del flujo de pacientes."
+    },
+    {
+      "term": "Servicios centrales diagnósticos",
+      "definition": "Incluyen unidades como laboratorio, radiodiagnóstico o anatomía patológica que apoyan a las áreas clínicas."
+    },
+    {
+      "term": "TCAE en consultas externas",
+      "definition": "Acondiciona la consulta, prepara material, acompaña al paciente y ayuda en exploraciones dentro de sus funciones."
+    },
+    {
+      "term": "TCAE en planta de hospitalización",
+      "definition": "Realiza cuidados básicos, ayuda en movilización y alimentación, mantiene la unidad y comunica cambios observados."
+    },
+    {
+      "term": "TCAE en Urgencias",
+      "definition": "Colabora en la acogida, preparación de boxes, movilización, higiene, reposición y respuesta rápida bajo prioridades clínicas."
+    },
+    {
+      "term": "TCAE en unidades de críticos",
+      "definition": "Apoya los cuidados básicos y el material en un entorno de alta vigilancia, respetando asepsia, alarmas y circuitos específicos."
+    },
+    {
+      "term": "Traslado intrahospitalario seguro",
+      "definition": "Requiere identificar al paciente, comprobar destino, documentación, sujeciones y dispositivos, y coordinarse con el equipo."
+    },
+    {
+      "term": "Coordinación entre Atención Primaria y Especializada",
+      "definition": "Facilita continuidad, evita duplicidades y permite compartir la información clínica necesaria durante derivaciones y altas."
+    },
+    {
+      "term": "Alta hospitalaria y continuidad de cuidados",
+      "definition": "Debe acompañarse de información y coordinación para que el seguimiento prosiga en el nivel asistencial adecuado."
+    }
+  ]
+}
