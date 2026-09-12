@@ -1,0 +1,112 @@
+{
+  "tema_num": 26,
+  "tag": "CUIDADOS QUIRÚRGICOS · TEMA 26",
+  "tema_default": "instrumental",
+  "fuentes": [
+    "Lista OMS de verificación de la seguridad de la cirugía",
+    "Protocolos de cuidados preoperatorios, intraoperatorios y postoperatorios",
+    "Manuales de instrumental y organización del bloque quirúrgico"
+  ],
+  "facts": [
+    {
+      "term": "Período preoperatorio",
+      "definition": "Abarca desde la decisión de intervenir hasta el traslado del paciente al quirófano e incluye preparación física, documental y emocional."
+    },
+    {
+      "term": "Identificación preoperatoria",
+      "definition": "Debe confirmar paciente, procedimiento, localización, alergias y documentación mediante los controles establecidos."
+    },
+    {
+      "term": "Ayuno preoperatorio",
+      "definition": "Se comprueba y registra según la pauta anestésica; cualquier ingesta no prevista se comunica antes de continuar."
+    },
+    {
+      "term": "Higiene preoperatoria",
+      "definition": "Reduce suciedad y carga microbiana de la piel mediante ducha o aseo conforme al protocolo, sin lesionar la zona."
+    },
+    {
+      "term": "Eliminación preoperatoria del vello",
+      "definition": "Solo se realiza si es necesaria y lo más cerca posible de la intervención, preferentemente con cortadora eléctrica y no con cuchilla."
+    },
+    {
+      "term": "Objetos personales antes de cirugía",
+      "definition": "Prótesis, joyas, lentillas y otros elementos se retiran, identifican y custodian según el protocolo y la situación."
+    },
+    {
+      "term": "Apoyo psicológico preoperatorio",
+      "definition": "Incluye escucha, información dentro de la competencia, respeto a dudas y transmisión de preocupaciones al profesional responsable."
+    },
+    {
+      "term": "Lista de verificación quirúrgica",
+      "definition": "Realiza comprobaciones compartidas antes de anestesia, antes de la incisión y antes de que el paciente abandone el quirófano."
+    },
+    {
+      "term": "Período intraoperatorio",
+      "definition": "Comprende la estancia en el quirófano desde la recepción hasta el traslado a la unidad de recuperación."
+    },
+    {
+      "term": "TCAE circulante en quirófano",
+      "definition": "Trabaja fuera del campo estéril, prepara sala y material, abre suministros de forma segura y apoya al equipo según protocolo."
+    },
+    {
+      "term": "Instrumental de diéresis",
+      "definition": "Se utiliza para cortar o separar tejidos e incluye bisturís y tijeras Mayo o Metzenbaum."
+    },
+    {
+      "term": "Instrumental de hemostasia",
+      "definition": "Ocluye vasos para controlar el sangrado e incluye pinzas Mosquito, Pean y Kocher."
+    },
+    {
+      "term": "Instrumental de aprehensión",
+      "definition": "Sujeta tejidos o campos e incluye pinzas Allis, Duval y Backhaus según el uso."
+    },
+    {
+      "term": "Instrumental de separación",
+      "definition": "Mantiene expuesto el campo mediante separadores manuales, como Farabeuf, o autoestáticos, como Gosset o Finochietto."
+    },
+    {
+      "term": "Instrumental de síntesis",
+      "definition": "Aproxima y cierra tejidos mediante portaagujas, agujas, suturas o grapadoras."
+    },
+    {
+      "term": "Mesa de Mayo",
+      "definition": "Es una mesa auxiliar estéril con el instrumental de uso inmediato, ordenado de forma visible, segura y acorde con la secuencia prevista."
+    },
+    {
+      "term": "Orden por tiempos quirúrgicos",
+      "definition": "La organización puede seguir preparación, diéresis, hemostasia, aprehensión, separación y síntesis, adaptándose a la técnica y preferencias del equipo."
+    },
+    {
+      "term": "Montaje estéril de la mesa de Mayo",
+      "definition": "Corresponde al miembro estéril designado; el TCAE circulante colabora desde fuera del campo sin tocar la mesa estéril."
+    },
+    {
+      "term": "Recuento quirúrgico",
+      "definition": "Gasas, agujas e instrumental se cuentan de forma sistemática y cualquier discrepancia se comunica y resuelve antes de cerrar o salir."
+    },
+    {
+      "term": "Muestra quirúrgica",
+      "definition": "Debe identificarse correctamente, conservarse en el recipiente indicado y enviarse con solicitud y trazabilidad."
+    },
+    {
+      "term": "Período postoperatorio inmediato",
+      "definition": "Prioriza vía aérea, respiración, circulación, conciencia, dolor, náuseas, temperatura, herida, drenajes y seguridad."
+    },
+    {
+      "term": "Dolor postoperatorio",
+      "definition": "Debe valorarse de forma periódica, aplicar las medidas indicadas y comunicar dolor intenso, nuevo o no controlado."
+    },
+    {
+      "term": "Náuseas y vómitos postoperatorios",
+      "definition": "Requieren proteger la vía aérea, colocar de forma segura, disponer material y comunicar para tratamiento y vigilancia."
+    },
+    {
+      "term": "Vigilancia de herida y drenajes",
+      "definition": "Incluye observar sangrado, apósito, cantidad y aspecto del drenaje, permeabilidad y fijación sin manipular innecesariamente."
+    },
+    {
+      "term": "Movilización postoperatoria",
+      "definition": "Se inicia progresivamente cuando está indicada para reducir complicaciones, valorando dolor, mareo, dispositivos y tolerancia."
+    }
+  ]
+}

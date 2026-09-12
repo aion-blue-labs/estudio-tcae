@@ -1,0 +1,111 @@
+{
+  "tema_num": 27,
+  "tag": "PRIMEROS AUXILIOS Y RCP · TEMA 27",
+  "tema_default": "urgencias",
+  "fuentes": [
+    "European Resuscitation Council Guidelines 2025",
+    "Recomendaciones de primeros auxilios del European Resuscitation Council y del Sistema Nacional de Salud"
+  ],
+  "facts": [
+    {
+      "term": "Conducta PAS",
+      "definition": "Ordena Proteger el lugar y a las personas, Alertar al sistema de emergencias y Socorrer dentro de la propia capacidad."
+    },
+    {
+      "term": "Reconocimiento de parada cardíaca",
+      "definition": "Una persona inconsciente que no respira normalmente, incluidos jadeos agónicos, debe considerarse en parada e iniciar actuación."
+    },
+    {
+      "term": "Activación del 112",
+      "definition": "Debe hacerse cuanto antes, preferiblemente con el teléfono en altavoz para seguir instrucciones mientras se ayuda."
+    },
+    {
+      "term": "Lugar de compresiones en el adulto",
+      "definition": "Se realizan en el centro del pecho, sobre la mitad inferior del esternón."
+    },
+    {
+      "term": "Frecuencia de compresiones en RCP adulta",
+      "definition": "Debe mantenerse entre 100 y 120 compresiones por minuto."
+    },
+    {
+      "term": "Profundidad de compresión en el adulto",
+      "definition": "Debe ser de al menos 5 cm y no más de 6 cm, permitiendo la reexpansión completa."
+    },
+    {
+      "term": "Relación compresiones-ventilaciones en adulto",
+      "definition": "Cuando se realizan ventilaciones se alternan 30 compresiones con 2 insuflaciones."
+    },
+    {
+      "term": "Ventilación de rescate",
+      "definition": "Cada insuflación dura aproximadamente un segundo y debe producir una elevación visible del tórax sin hiperventilar."
+    },
+    {
+      "term": "Reexpansión torácica",
+      "definition": "Después de cada compresión debe liberarse completamente la presión sin perder la posición de las manos."
+    },
+    {
+      "term": "Desfibrilador externo automatizado",
+      "definition": "Se enciende en cuanto está disponible, se colocan parches sobre el pecho desnudo y se siguen sus indicaciones sin tocar durante el análisis."
+    },
+    {
+      "term": "RCP pediátrica por personal entrenado",
+      "definition": "Comienza habitualmente con cinco ventilaciones iniciales y continúa con compresiones y ventilaciones adaptadas a edad y número de reanimadores."
+    },
+    {
+      "term": "Profundidad de compresión pediátrica",
+      "definition": "Es aproximadamente un tercio del diámetro anteroposterior del tórax: unos 4 cm en lactante y 5 cm en niño."
+    },
+    {
+      "term": "Obstrucción leve de la vía aérea",
+      "definition": "Si la persona tose eficazmente se la anima a continuar tosiendo y se vigila sin dar golpes de forma rutinaria."
+    },
+    {
+      "term": "Obstrucción grave consciente en adulto",
+      "definition": "Se alternan hasta cinco golpes interescapulares con hasta cinco compresiones abdominales, reevaluando tras cada maniobra."
+    },
+    {
+      "term": "Obstrucción grave en embarazada o persona muy obesa",
+      "definition": "Se emplean compresiones torácicas en lugar de compresiones abdominales cuando estas no son adecuadas."
+    },
+    {
+      "term": "Atragantamiento con pérdida de conciencia",
+      "definition": "Se coloca con seguridad, se activa emergencias y se inicia RCP, retirando solo objetos visibles y accesibles de la boca."
+    },
+    {
+      "term": "Hemorragia externa grave",
+      "definition": "Se controla primero con presión directa firme y mantenida, añadiendo vendaje compresivo cuando sea posible."
+    },
+    {
+      "term": "Torniquete",
+      "definition": "Se usa en hemorragia de una extremidad potencialmente mortal que no se controla con presión, anotando la hora y sin aflojarlo."
+    },
+    {
+      "term": "Quemadura térmica reciente",
+      "definition": "Se enfría con agua corriente fresca durante unos veinte minutos y se retiran objetos no adheridos antes de que aparezca edema."
+    },
+    {
+      "term": "Hielo sobre una quemadura",
+      "definition": "No debe aplicarse directamente porque puede producir vasoconstricción, hipotermia y lesión adicional."
+    },
+    {
+      "term": "Herida con objeto clavado",
+      "definition": "No se retira; se estabiliza alrededor, se controla el sangrado sin presionar el objeto y se solicita ayuda."
+    },
+    {
+      "term": "Sospecha de fractura",
+      "definition": "Se inmoviliza en la posición encontrada, se comprueba circulación distal y no se intenta alinear de forma no profesional."
+    },
+    {
+      "term": "Crisis convulsiva",
+      "definition": "Se protege la cabeza y el entorno, se cronometra, no se sujeta ni se introduce nada en la boca y después se valora respiración."
+    },
+    {
+      "term": "Posición lateral de seguridad",
+      "definition": "Se usa en una persona inconsciente que respira normalmente y no presenta una contraindicación traumática prioritaria."
+    },
+    {
+      "term": "Carro de paradas",
+      "definition": "Debe permanecer accesible, ordenado, precintado o controlado y revisarse tras cada uso y con la periodicidad establecida."
+    }
+  ]
+}

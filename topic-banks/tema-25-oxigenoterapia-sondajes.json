@@ -1,0 +1,123 @@
+{
+  "tema_num": 25,
+  "tag": "OXIGENOTERAPIA Y SONDAJES · TEMA 25",
+  "tema_default": "medicacion",
+  "fuentes": [
+    "Protocolos clínicos de oxigenoterapia y seguridad con gases medicinales",
+    "Guías de prevención de infección urinaria y manejo de sondas nasogástricas"
+  ],
+  "facts": [
+    {
+      "term": "Oxigenoterapia",
+      "definition": "Administra oxígeno a una concentración superior a la ambiental para tratar o prevenir hipoxemia según prescripción y objetivo."
+    },
+    {
+      "term": "Gafas nasales",
+      "definition": "Son un sistema cómodo de bajo flujo que permite hablar y comer, con concentración variable según flujo y respiración."
+    },
+    {
+      "term": "Mascarilla simple de oxígeno",
+      "definition": "Aporta concentración moderada y necesita un flujo suficiente, habitualmente al menos 5 litros por minuto, para evitar reinhalación de dióxido de carbono."
+    },
+    {
+      "term": "Mascarilla Venturi",
+      "definition": "Es un sistema de alto flujo que administra una concentración de oxígeno precisa mediante adaptadores calibrados."
+    },
+    {
+      "term": "Mascarilla con reservorio y no reinhalación",
+      "definition": "Puede aportar concentraciones altas con flujo elevado y requiere mantener la bolsa parcialmente inflada."
+    },
+    {
+      "term": "Pulsioximetría",
+      "definition": "Estima saturación de oxígeno y pulso, pero puede alterarse por mala perfusión, movimiento, esmalte, frío o colocación incorrecta."
+    },
+    {
+      "term": "Objetivo de saturación",
+      "definition": "Debe individualizarse según la prescripción y la enfermedad, evitando aumentar el oxígeno de forma automática sin valoración."
+    },
+    {
+      "term": "Humidificación del oxígeno",
+      "definition": "Se utiliza cuando está indicada por flujo, duración, dispositivo o protocolo y el humidificador debe manejarse sin contaminarlo."
+    },
+    {
+      "term": "Lesiones por dispositivos de oxígeno",
+      "definition": "Se previenen inspeccionando nariz, orejas y cara, ajustando sin exceso y protegiendo la piel con materiales compatibles."
+    },
+    {
+      "term": "Seguridad frente al fuego con oxígeno",
+      "definition": "El oxígeno favorece la combustión, por lo que se prohíben llamas, tabaco, chispas y productos grasos cerca del sistema."
+    },
+    {
+      "term": "Botella de oxígeno",
+      "definition": "Debe transportarse y almacenarse sujeta, protegida de golpes y calor, y con regulador adecuado."
+    },
+    {
+      "term": "Comprobación del sistema de oxígeno",
+      "definition": "Incluye verificar prescripción, fuente, flujo, conexiones, funcionamiento, dispositivo y tolerancia del paciente."
+    },
+    {
+      "term": "Signo de deterioro durante oxigenoterapia",
+      "definition": "Mayor disnea, somnolencia, cianosis, agitación o caída de saturación requiere valoración y comunicación inmediata."
+    },
+    {
+      "term": "Sondaje vesical",
+      "definition": "Introduce una sonda por la uretra hasta la vejiga y su inserción corresponde al profesional competente con técnica aséptica.",
+      "tema": "eliminacion"
+    },
+    {
+      "term": "Colaboración del TCAE en sondaje vesical",
+      "definition": "Prepara material y paciente, ayuda a mantener posición e intimidad y colabora sin realizar la inserción no atribuida.",
+      "tema": "eliminacion"
+    },
+    {
+      "term": "Sistema urinario cerrado",
+      "definition": "Debe mantenerse sin desconexiones innecesarias para reducir el riesgo de infección asociada a sonda.",
+      "tema": "eliminacion"
+    },
+    {
+      "term": "Bolsa de diuresis",
+      "definition": "Se mantiene por debajo de la vejiga, sin tocar el suelo y con el tubo libre de acodamientos.",
+      "tema": "eliminacion"
+    },
+    {
+      "term": "Vaciado de la bolsa urinaria",
+      "definition": "Se realiza con recipiente limpio individual, evitando que la válvula toque el recipiente y registrando la cantidad cuando proceda.",
+      "tema": "eliminacion"
+    },
+    {
+      "term": "Muestra de orina de una sonda",
+      "definition": "Se obtiene asépticamente del puerto destinado a muestreo y no del contenido acumulado en la bolsa.",
+      "tema": "eliminacion"
+    },
+    {
+      "term": "Sonda nasogástrica",
+      "definition": "Se introduce por una fosa nasal hasta el estómago para nutrición, medicación, aspiración o descompresión según indicación.",
+      "tema": "alimentacion"
+    },
+    {
+      "term": "Colaboración del TCAE en sondaje nasogástrico",
+      "definition": "Incluye preparar material, colocar y tranquilizar al paciente y ayudar al profesional que realiza la inserción.",
+      "tema": "alimentacion"
+    },
+    {
+      "term": "Verificación inicial de una sonda nasogástrica",
+      "definition": "Debe hacerse mediante el método autorizado antes de usarla; la auscultación de aire no es una prueba fiable por sí sola.",
+      "tema": "alimentacion"
+    },
+    {
+      "term": "Marca externa de la sonda nasogástrica",
+      "definition": "Se comprueba antes de cada uso y ante tos, vómito o desplazamiento para detectar cambios en su posición.",
+      "tema": "alimentacion"
+    },
+    {
+      "term": "Cuidados de nariz y boca con sonda nasogástrica",
+      "definition": "Incluyen higiene frecuente, revisión de fijación y piel, hidratación bucal y cambio de apoyo según protocolo.",
+      "tema": "alimentacion"
+    },
+    {
+      "term": "Drenaje por gravedad",
+      "definition": "Debe mantenerse por debajo del punto de inserción, sin acodamientos ni tracciones y con el recipiente correctamente fijado.",
+      "tema": "eliminacion"
+    }
+  ]
+}

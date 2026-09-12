@@ -1,0 +1,111 @@
+{
+  "tema_num": 24,
+  "tag": "ENEMAS Y OSTOMÍAS · TEMA 24",
+  "tema_default": "eliminacion",
+  "fuentes": [
+    "Protocolos de administración de enemas y cuidados de ostomías de eliminación",
+    "Guías de buenas prácticas de enfermería estomaterapéutica"
+  ],
+  "facts": [
+    {
+      "term": "Enema evacuante",
+      "definition": "Introduce una solución en el recto para estimular la evacuación de heces y limpiar el tramo distal del intestino."
+    },
+    {
+      "term": "Enema de retención",
+      "definition": "Administra un volumen generalmente menor que debe mantenerse durante el tiempo indicado para lograr un efecto local o sistémico."
+    },
+    {
+      "term": "Enema medicamentoso",
+      "definition": "Contiene un fármaco prescrito que actúa localmente o se absorbe a través de la mucosa rectal."
+    },
+    {
+      "term": "Enema de flujo de retorno",
+      "definition": "Alterna entrada y salida de líquido para favorecer la expulsión de gases y aliviar distensión."
+    },
+    {
+      "term": "Posición de Sims para un enema",
+      "definition": "Coloca habitualmente al paciente sobre el lado izquierdo y facilita el avance de la solución por el recto y el sigmoide."
+    },
+    {
+      "term": "Temperatura de la solución del enema",
+      "definition": "Debe ser templada y ajustarse al protocolo para evitar cólicos por frío o lesión por exceso de calor."
+    },
+    {
+      "term": "Lubricación de la cánula rectal",
+      "definition": "Reduce fricción y riesgo de lesión durante una introducción suave y nunca forzada."
+    },
+    {
+      "term": "Altura del irrigador del enema",
+      "definition": "Se mantiene a la altura indicada, habitualmente moderada, porque elevarlo demasiado aumenta presión, dolor y riesgo."
+    },
+    {
+      "term": "Dolor o resistencia durante un enema",
+      "definition": "Obliga a detener o ralentizar la técnica, no forzar y valorar o comunicar la situación."
+    },
+    {
+      "term": "Contraindicación de un enema evacuante",
+      "definition": "La sospecha de obstrucción, perforación, abdomen agudo o cirugía colorrectal reciente exige valoración y evita su aplicación rutinaria."
+    },
+    {
+      "term": "Colostomía",
+      "definition": "Exterioriza una parte del colon a la pared abdominal para eliminar heces."
+    },
+    {
+      "term": "Ileostomía",
+      "definition": "Exterioriza el íleon y suele producir un efluente más líquido, abundante e irritante que una colostomía distal."
+    },
+    {
+      "term": "Urostomía",
+      "definition": "Deriva la orina hacia un estoma abdominal y utiliza un dispositivo colector con salida para vaciado."
+    },
+    {
+      "term": "Aspecto normal del estoma",
+      "definition": "Debe ser rosado o rojo, húmedo y brillante; puede sangrar ligeramente al roce por su vascularización."
+    },
+    {
+      "term": "Coloración oscura o negra del estoma",
+      "definition": "Puede indicar compromiso vascular y requiere comunicación y valoración urgente."
+    },
+    {
+      "term": "Piel periestomal",
+      "definition": "Debe mantenerse limpia, seca e íntegra, evitando el contacto prolongado con el efluente."
+    },
+    {
+      "term": "Limpieza alrededor del estoma",
+      "definition": "Se realiza suavemente con agua y material no irritante, secando bien y evitando productos grasos que dificulten la adhesión."
+    },
+    {
+      "term": "Medición del estoma",
+      "definition": "Permite recortar una abertura ajustada, ligeramente mayor que el estoma, para proteger piel sin comprimirlo."
+    },
+    {
+      "term": "Dispositivo de ostomía de una pieza",
+      "definition": "Integra barrera adhesiva y bolsa en un único conjunto que se retira completo."
+    },
+    {
+      "term": "Dispositivo de ostomía de dos piezas",
+      "definition": "Separa la barrera adherida a la piel de la bolsa, que puede cambiarse sin retirar siempre la base."
+    },
+    {
+      "term": "Bolsa de ostomía abierta o drenable",
+      "definition": "Permite vaciar el contenido por una abertura inferior y se usa con frecuencia para efluentes líquidos o abundantes."
+    },
+    {
+      "term": "Bolsa de ostomía cerrada",
+      "definition": "No dispone de salida inferior y suele desecharse completa, especialmente con heces más formadas."
+    },
+    {
+      "term": "Momento de vaciar la bolsa de ostomía",
+      "definition": "Conviene hacerlo cuando alcanza aproximadamente un tercio de su capacidad para evitar peso, fugas y desprendimiento."
+    },
+    {
+      "term": "Cambio del dispositivo de ostomía",
+      "definition": "Se prepara todo, se retira suavemente sujetando la piel, se inspecciona y limpia, y se coloca el sistema sin pliegues."
+    },
+    {
+      "term": "Autonomía del paciente ostomizado",
+      "definition": "Se fomenta enseñando paso a paso, respetando intimidad y preferencias y permitiendo que participe según su capacidad."
+    }
+  ]
+}
