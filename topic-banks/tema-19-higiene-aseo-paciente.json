@@ -1,0 +1,111 @@
+{
+  "tema_num": 19,
+  "tag": "HIGIENE Y ASEO DEL PACIENTE · TEMA 19",
+  "tema_default": "higiene",
+  "fuentes": [
+    "Protocolos hospitalarios de higiene, cuidados de la piel y prevención de infecciones",
+    "Recomendaciones de cuidados básicos del recién nacido"
+  ],
+  "facts": [
+    {
+      "term": "Higiene total del paciente",
+      "definition": "Limpia todo el cuerpo y se adapta al grado de autonomía, estado clínico, preferencias y riesgos de la persona."
+    },
+    {
+      "term": "Higiene parcial",
+      "definition": "Se centra en zonas que necesitan cuidado frecuente o específico, como cara, boca, manos, axilas, periné o espalda."
+    },
+    {
+      "term": "Baño del paciente encamado",
+      "definition": "Debe planificarse, explicar la técnica, preservar intimidad, mantener temperatura confortable y fomentar la participación posible."
+    },
+    {
+      "term": "Orden general del aseo",
+      "definition": "Se avanza habitualmente de las zonas más limpias a las más contaminadas, dejando el periné para el final."
+    },
+    {
+      "term": "Cambio de agua durante el aseo",
+      "definition": "Se realiza cuando está fría, sucia, jabonosa en exceso o antes de pasar a una zona especialmente limpia si el protocolo lo requiere."
+    },
+    {
+      "term": "Secado de la piel",
+      "definition": "Debe hacerse con suavidad y especial cuidado en pliegues para evitar humedad, maceración y fricción."
+    },
+    {
+      "term": "Observación durante el aseo",
+      "definition": "Permite detectar enrojecimiento, lesiones, hematomas, edema, dolor, humedad, alteraciones de uñas y signos de presión."
+    },
+    {
+      "term": "Higiene de los ojos",
+      "definition": "Se limpia cada ojo con una gasa distinta, normalmente del ángulo interno al externo, con la solución indicada."
+    },
+    {
+      "term": "Higiene del oído externo",
+      "definition": "Se limita al pabellón y entrada visible, sin introducir bastoncillos u objetos en el conducto auditivo."
+    },
+    {
+      "term": "Higiene bucal del paciente consciente",
+      "definition": "Se realiza favoreciendo su autonomía, con cepillado de dientes, lengua y encías y enjuague seguro."
+    },
+    {
+      "term": "Higiene bucal del paciente inconsciente",
+      "definition": "Se coloca de lado si es posible, se usa poca solución y aspiración cuando esté indicada para evitar broncoaspiración."
+    },
+    {
+      "term": "Cuidado de prótesis dentales",
+      "definition": "Se retiran con cuidado, se limpian sobre una superficie protegida y se guardan identificadas en un recipiente adecuado."
+    },
+    {
+      "term": "Lavado del cabello en cama",
+      "definition": "Requiere proteger cama y paciente, usar un lavacabezas y comprobar contraindicaciones o dispositivos antes de comenzar."
+    },
+    {
+      "term": "Higiene perineal femenina",
+      "definition": "Se limpia de delante hacia atrás para reducir el arrastre de microorganismos desde la región anal hacia la uretra."
+    },
+    {
+      "term": "Higiene genital masculina con prepucio",
+      "definition": "Se retrae suavemente para limpiar el glande y se recoloca al finalizar para evitar parafimosis."
+    },
+    {
+      "term": "Cuidado básico de los pies",
+      "definition": "Incluye lavado, secado interdigital, hidratación sin dejar humedad entre dedos e inspección de piel, uñas y circulación."
+    },
+    {
+      "term": "Pies de una persona con diabetes",
+      "definition": "Requieren observación diaria, evitar temperaturas extremas y comunicar lesiones; el corte de uñas de riesgo sigue indicación profesional."
+    },
+    {
+      "term": "Hidratación cutánea",
+      "definition": "Se aplica con suavidad sobre piel limpia y seca cuando está indicada, evitando masajear prominencias enrojecidas."
+    },
+    {
+      "term": "Aseo y autonomía",
+      "definition": "Debe permitirse que la persona haga por sí misma todo lo que pueda con seguridad, ofreciendo ayuda solo donde sea necesaria."
+    },
+    {
+      "term": "Aseo y dispositivos",
+      "definition": "Sondas, vías, drenajes y apósitos deben protegerse de tirones, humedad y desconexiones durante toda la técnica."
+    },
+    {
+      "term": "Termorregulación del recién nacido",
+      "definition": "Durante el aseo se evitan corrientes, se prepara todo antes, se reduce la exposición y se seca y abriga con rapidez."
+    },
+    {
+      "term": "Baño del recién nacido",
+      "definition": "Se realiza cuando está clínicamente estable, con agua templada, sujeción segura y productos suaves según protocolo."
+    },
+    {
+      "term": "Aseo del recién nacido en incubadora",
+      "definition": "Debe minimizar apertura y pérdida de calor, agrupar cuidados y respetar estabilidad y manipulación mínima."
+    },
+    {
+      "term": "Cuidado del cordón umbilical",
+      "definition": "Se mantiene limpio y seco, se observa enrojecimiento o secreción y se siguen las indicaciones del centro sin aplicar productos rutinarios no prescritos."
+    },
+    {
+      "term": "Registro de incidencias del aseo",
+      "definition": "Deben comunicarse y documentarse hallazgos relevantes, tolerancia, ayuda necesaria y cuidados realizados."
+    }
+  ]
+}

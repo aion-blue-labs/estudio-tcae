@@ -1,0 +1,111 @@
+{
+  "tema_num": 23,
+  "tag": "ADMINISTRACIÓN DE MEDICAMENTOS · TEMA 23",
+  "tema_default": "medicacion",
+  "fuentes": [
+    "Estatuto de funciones del personal auxiliar y protocolos de administración segura de medicamentos",
+    "Agencia Española de Medicamentos y Productos Sanitarios: conservación y uso seguro"
+  ],
+  "facts": [
+    {
+      "term": "Medicamento",
+      "definition": "Es una sustancia o combinación destinada a prevenir, diagnosticar o tratar enfermedades o a modificar funciones fisiológicas."
+    },
+    {
+      "term": "Principio activo",
+      "definition": "Es el componente responsable del efecto farmacológico del medicamento."
+    },
+    {
+      "term": "Forma farmacéutica",
+      "definition": "Es la presentación preparada para administrar el fármaco, como comprimido, cápsula, solución, crema o supositorio."
+    },
+    {
+      "term": "Vía oral",
+      "definition": "Administra el medicamento por la boca para deglución y absorción principalmente digestiva."
+    },
+    {
+      "term": "Vía sublingual",
+      "definition": "Coloca el fármaco bajo la lengua para su absorción por la mucosa sin tragarlo de inmediato."
+    },
+    {
+      "term": "Vía rectal",
+      "definition": "Utiliza supositorios, enemas u otras formas a través del recto para efecto local o sistémico."
+    },
+    {
+      "term": "Vía tópica",
+      "definition": "Aplica el medicamento sobre piel o mucosas para obtener principalmente un efecto local."
+    },
+    {
+      "term": "Vía inhalatoria",
+      "definition": "Introduce el medicamento en el aparato respiratorio mediante inhalador, cámara o nebulización."
+    },
+    {
+      "term": "Vía parenteral",
+      "definition": "Administra el fármaco por inyección o perfusión, evitando el tubo digestivo."
+    },
+    {
+      "term": "Competencia del TCAE con medicación",
+      "definition": "Colabora en preparación y administración de vías básicas autorizadas bajo indicación y supervisión, según norma y protocolo del centro."
+    },
+    {
+      "term": "Prohibición de medicación parenteral al TCAE",
+      "definition": "No le corresponde administrar inyecciones ni medicación intravenosa."
+    },
+    {
+      "term": "Paciente correcto",
+      "definition": "Se comprueba con al menos dos identificadores válidos antes de administrar el medicamento."
+    },
+    {
+      "term": "Medicamento correcto",
+      "definition": "Se cotejan nombre, principio activo, presentación y prescripción para evitar confusiones entre envases similares."
+    },
+    {
+      "term": "Dosis correcta",
+      "definition": "Se verifica la cantidad prescrita, concentración disponible y cálculo o medida necesarios."
+    },
+    {
+      "term": "Vía correcta",
+      "definition": "Se administra exclusivamente por la vía indicada porque cambiarla puede alterar eficacia y seguridad."
+    },
+    {
+      "term": "Hora correcta",
+      "definition": "Se respeta el horario y la relación con comidas o pruebas, consultando cualquier retraso u omisión."
+    },
+    {
+      "term": "Registro de la administración",
+      "definition": "Se documenta después de administrar, nunca antes, indicando incidencias, rechazo u omisión cuando existan."
+    },
+    {
+      "term": "Comprobación de alergias",
+      "definition": "Debe revisarse antes de administrar y cualquier discordancia o reacción previa se comunica inmediatamente."
+    },
+    {
+      "term": "Comprimidos de liberación modificada",
+      "definition": "No deben triturarse salvo autorización específica porque se alteraría la velocidad o lugar de liberación."
+    },
+    {
+      "term": "Comprimidos con recubrimiento entérico",
+      "definition": "No se trituran de forma rutinaria porque el recubrimiento protege el fármaco o el estómago hasta llegar al intestino."
+    },
+    {
+      "term": "Medición de medicamentos líquidos",
+      "definition": "Se utiliza un dispositivo graduado adecuado y se comprueba el volumen a la altura de los ojos."
+    },
+    {
+      "term": "Reacción adversa a un medicamento",
+      "definition": "Es una respuesta nociva y no intencionada que debe observarse, comunicarse y registrarse según su gravedad."
+    },
+    {
+      "term": "Caducidad de un medicamento",
+      "definition": "Después de la fecha indicada no debe utilizarse y debe retirarse por el circuito establecido."
+    },
+    {
+      "term": "Cadena de frío de medicamentos",
+      "definition": "Mantiene de forma continua la temperatura indicada, con frecuencia entre 2 y 8 °C, sin congelar salvo instrucción expresa."
+    },
+    {
+      "term": "Almacenamiento seguro de fármacos",
+      "definition": "Exige orden, control de temperatura y luz, separación de productos, rotación por caducidad y acceso restringido cuando proceda."
+    }
+  ]
+}

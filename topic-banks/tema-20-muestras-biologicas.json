@@ -1,0 +1,111 @@
+{
+  "tema_num": 20,
+  "tag": "MUESTRAS BIOLÓGICAS · TEMA 20",
+  "tema_default": "muestras",
+  "fuentes": [
+    "Recomendaciones preanalíticas de laboratorios clínicos y microbiología",
+    "Protocolos de bioseguridad y transporte de muestras biológicas"
+  ],
+  "facts": [
+    {
+      "term": "Identificación de una muestra",
+      "definition": "Debe hacerse con al menos dos identificadores válidos, en presencia del paciente y vinculándola correctamente con la solicitud."
+    },
+    {
+      "term": "Momento del etiquetado",
+      "definition": "Se realiza inmediatamente después de obtener la muestra y antes de abandonar el lugar del paciente."
+    },
+    {
+      "term": "Solicitud de laboratorio",
+      "definition": "Debe acompañar la información necesaria y transportarse separada del recipiente para evitar contaminación."
+    },
+    {
+      "term": "Recipiente de muestras",
+      "definition": "Debe ser el indicado para la prueba, estar íntegro, bien cerrado y no contaminarse por fuera."
+    },
+    {
+      "term": "Muestra de sangre venosa",
+      "definition": "El TCAE prepara material, identifica, posiciona y transporta, mientras la extracción corresponde al profesional competente."
+    },
+    {
+      "term": "Hemocultivos",
+      "definition": "Se obtienen con antisepsia rigurosa, preferentemente antes de iniciar antibióticos y se envían pronto sin refrigerar."
+    },
+    {
+      "term": "Orina de chorro medio",
+      "definition": "Tras higiene genital se desecha el primer chorro y se recoge la porción media sin tocar el interior del recipiente."
+    },
+    {
+      "term": "Urocultivo",
+      "definition": "Requiere recipiente estéril y envío rápido; si existe demora se conserva según el protocolo, habitualmente refrigerado."
+    },
+    {
+      "term": "Orina de 24 horas",
+      "definition": "Se desecha la primera micción, se anota la hora y se recogen todas las siguientes, incluida la de la misma hora del día siguiente."
+    },
+    {
+      "term": "Orina de paciente sondado",
+      "definition": "Se obtiene de forma aséptica en el puerto de muestreo y nunca de la bolsa colectora para cultivo."
+    },
+    {
+      "term": "Muestra de heces",
+      "definition": "Se recoge una cantidad suficiente en recipiente adecuado evitando mezclarla con orina, agua o papel higiénico."
+    },
+    {
+      "term": "Sangre oculta en heces",
+      "definition": "La preparación y restricciones dependen del método utilizado, por lo que deben seguirse exactamente las instrucciones del laboratorio."
+    },
+    {
+      "term": "Muestra de esputo",
+      "definition": "Debe proceder de una expectoración profunda, preferentemente matutina, y no consistir solo en saliva."
+    },
+    {
+      "term": "Preparación para recoger esputo",
+      "definition": "Se recomienda enjuagar la boca con agua, inspirar profundamente y toser desde el pecho dentro del recipiente."
+    },
+    {
+      "term": "Líquido cefalorraquídeo",
+      "definition": "Lo obtiene personal facultativo mediante punción y debe enviarse con urgencia porque es una muestra crítica."
+    },
+    {
+      "term": "Conservación del LCR para microbiología",
+      "definition": "No debe refrigerarse cuando se investigan bacterias sensibles a la temperatura y se transporta inmediatamente según protocolo."
+    },
+    {
+      "term": "Exudado con torunda",
+      "definition": "Se toma de la zona indicada evitando tocar áreas vecinas y se introduce en el medio de transporte correspondiente."
+    },
+    {
+      "term": "Tiempo de transporte al laboratorio",
+      "definition": "Debe ser el mínimo posible para preservar células, microorganismos y concentraciones de los analitos."
+    },
+    {
+      "term": "Cadena de frío de una muestra",
+      "definition": "Solo se aplica cuando la prueba lo exige y debe mantenerse de forma continua en el intervalo establecido."
+    },
+    {
+      "term": "Bolsa de transporte de muestras",
+      "definition": "Debe ser estanca, resistente y disponer de compartimento separado para la documentación cuando así lo establezca el sistema."
+    },
+    {
+      "term": "Criterio de rechazo preanalítico",
+      "definition": "Una identificación incorrecta, recipiente inadecuado, volumen insuficiente, fuga o conservación errónea puede invalidar la muestra."
+    },
+    {
+      "term": "Precauciones estándar con muestras",
+      "definition": "Toda muestra se considera potencialmente infecciosa y se manipula con higiene de manos y protección según el riesgo."
+    },
+    {
+      "term": "Agujas tras una extracción",
+      "definition": "No deben reencapsularse y se eliminan inmediatamente en un contenedor rígido para cortopunzantes."
+    },
+    {
+      "term": "Derrame de una muestra biológica",
+      "definition": "Se aísla la zona, se usa protección y se limpia y desinfecta con el procedimiento específico del centro."
+    },
+    {
+      "term": "Registro de la muestra",
+      "definition": "Debe permitir conocer paciente, tipo, fecha y hora de obtención, condiciones relevantes y recorrido hasta el laboratorio."
+    }
+  ]
+}

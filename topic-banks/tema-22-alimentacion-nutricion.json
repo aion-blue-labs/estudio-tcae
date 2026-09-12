@@ -1,0 +1,111 @@
+{
+  "tema_num": 22,
+  "tag": "ALIMENTACIÓN Y NUTRICIÓN · TEMA 22",
+  "tema_default": "alimentacion",
+  "fuentes": [
+    "Guías de nutrición clínica y seguridad alimentaria hospitalaria",
+    "Protocolos de alimentación oral, enteral y parenteral"
+  ],
+  "facts": [
+    {
+      "term": "Alimentación",
+      "definition": "Es el proceso voluntario de elegir, preparar e ingerir alimentos, influido por factores culturales, sociales y económicos."
+    },
+    {
+      "term": "Nutrición",
+      "definition": "Es el conjunto involuntario de procesos por los que el organismo digiere, absorbe, utiliza y elimina nutrientes."
+    },
+    {
+      "term": "Dietética",
+      "definition": "Aplica los conocimientos de nutrición para planificar una alimentación adecuada a personas sanas o enfermas."
+    },
+    {
+      "term": "Macronutrientes",
+      "definition": "Hidratos de carbono, grasas y proteínas se necesitan en cantidades relativamente grandes y aportan energía o estructura."
+    },
+    {
+      "term": "Micronutrientes",
+      "definition": "Vitaminas y minerales se necesitan en pequeñas cantidades y cumplen funciones reguladoras esenciales."
+    },
+    {
+      "term": "Dieta basal",
+      "definition": "Es una alimentación equilibrada sin modificaciones terapéuticas especiales para quien no presenta restricciones."
+    },
+    {
+      "term": "Dieta absoluta",
+      "definition": "Prohíbe la ingesta por vía oral durante el período indicado y debe comprobarse antes de ofrecer agua, alimentos o medicación oral."
+    },
+    {
+      "term": "Dieta líquida clara",
+      "definition": "Aporta líquidos transparentes de fácil absorción y se usa de forma transitoria cuando está indicada."
+    },
+    {
+      "term": "Dieta progresiva",
+      "definition": "Avanza de forma pautada desde líquidos a texturas más completas según tolerancia y situación clínica."
+    },
+    {
+      "term": "Dieta blanda",
+      "definition": "Facilita masticación y digestión mediante alimentos de textura y preparación suaves, evitando irritantes según indicación."
+    },
+    {
+      "term": "Dieta hiposódica",
+      "definition": "Limita sodio y requiere evitar añadir sal y controlar alimentos procesados ricos en ella."
+    },
+    {
+      "term": "Dieta con control de hidratos de carbono",
+      "definition": "Distribuye y ajusta carbohidratos para favorecer el control glucémico conforme a la pauta nutricional."
+    },
+    {
+      "term": "Dieta astringente",
+      "definition": "Se utiliza temporalmente en determinadas diarreas con alimentos de fácil digestión y bajo residuo según tolerancia."
+    },
+    {
+      "term": "Dieta rica en fibra",
+      "definition": "Aumenta fibra y, si no hay contraindicación, líquidos para favorecer el tránsito intestinal."
+    },
+    {
+      "term": "Comprobación de bandeja y paciente",
+      "definition": "Antes de servir se verifican identidad, dieta prescrita, alergias y restricciones o pruebas pendientes."
+    },
+    {
+      "term": "Posición para alimentación oral",
+      "definition": "Debe mantenerse sentado o con el tronco bien incorporado y alineado para reducir riesgo de aspiración."
+    },
+    {
+      "term": "Ayuda durante la comida",
+      "definition": "Se ofrece al ritmo del paciente, con bocados pequeños y fomentando que haga de forma autónoma lo que pueda."
+    },
+    {
+      "term": "Signos de disfagia durante la ingesta",
+      "definition": "Tos, voz húmeda, atragantamiento, babeo o cambios respiratorios obligan a detener y comunicar la alimentación."
+    },
+    {
+      "term": "Espesantes para líquidos",
+      "definition": "Se preparan con la cantidad y textura prescritas, comprobando que la consistencia se mantiene antes de administrarlos."
+    },
+    {
+      "term": "Nutrición enteral",
+      "definition": "Aporta nutrientes al tubo digestivo mediante una sonda o estoma cuando la vía oral no es suficiente o segura."
+    },
+    {
+      "term": "Sonda nasogástrica",
+      "definition": "Entra por la nariz hasta el estómago y su colocación inicial y posición deben verificarse con el método autorizado."
+    },
+    {
+      "term": "Cabecero en nutrición enteral",
+      "definition": "Se mantiene generalmente entre 30 y 45 grados durante la administración y el tiempo posterior indicado para reducir aspiración."
+    },
+    {
+      "term": "Nutrición parenteral",
+      "definition": "Aporta nutrientes directamente al sistema vascular mediante acceso venoso y exige técnica y vigilancia especializadas."
+    },
+    {
+      "term": "Nutrición parenteral central y periférica",
+      "definition": "La central permite soluciones de mayor osmolaridad y duración; la periférica se reserva para mezclas compatibles y períodos limitados."
+    },
+    {
+      "term": "Control de ingestas por el TCAE",
+      "definition": "Consiste en observar tolerancia, medir lo consumido según el plan, registrar cantidades y comunicar incidencias."
+    }
+  ]
+}

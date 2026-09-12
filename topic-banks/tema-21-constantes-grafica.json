@@ -1,0 +1,111 @@
+{
+  "tema_num": 21,
+  "tag": "CONSTANTES Y GRÁFICA · TEMA 21",
+  "tema_default": "constantes",
+  "fuentes": [
+    "Protocolos de medición de constantes vitales del Sistema Nacional de Salud",
+    "Guías europeas vigentes de presión arterial y práctica clínica hospitalaria"
+  ],
+  "facts": [
+    {
+      "term": "Temperatura corporal",
+      "definition": "Refleja el equilibrio entre producción y pérdida de calor y varía con lugar de medición, hora, edad y situación clínica."
+    },
+    {
+      "term": "Fiebre",
+      "definition": "Es una elevación regulada de la temperatura; en adultos suele considerarse clínicamente a partir de unos 38 °C, según lugar y protocolo."
+    },
+    {
+      "term": "Hipotermia",
+      "definition": "Es el descenso de la temperatura corporal central por debajo de 35 °C."
+    },
+    {
+      "term": "Medición axilar de temperatura",
+      "definition": "Requiere axila seca, sensor bien colocado y brazo aproximado al tórax durante el tiempo indicado por el dispositivo."
+    },
+    {
+      "term": "Pulso arterial",
+      "definition": "Es la expansión rítmica de una arteria producida por la eyección ventricular y se valora por frecuencia, ritmo, amplitud y simetría."
+    },
+    {
+      "term": "Frecuencia cardíaca adulta en reposo",
+      "definition": "Habitualmente se sitúa entre 60 y 100 latidos por minuto, interpretándola según contexto y características de la persona."
+    },
+    {
+      "term": "Taquicardia en el adulto",
+      "definition": "Es una frecuencia cardíaca en reposo superior a 100 latidos por minuto."
+    },
+    {
+      "term": "Bradicardia en el adulto",
+      "definition": "Es una frecuencia cardíaca en reposo inferior a 60 latidos por minuto, que puede ser fisiológica o patológica según el contexto."
+    },
+    {
+      "term": "Pulso irregular",
+      "definition": "Debe contarse durante un minuto completo y comunicarse si es nuevo, sintomático o clínicamente relevante."
+    },
+    {
+      "term": "Frecuencia respiratoria adulta en reposo",
+      "definition": "Suele encontrarse entre 12 y 20 respiraciones por minuto."
+    },
+    {
+      "term": "Medición de la respiración",
+      "definition": "Conviene observarla sin llamar la atención del paciente y valorar frecuencia, ritmo, profundidad, esfuerzo y ruidos."
+    },
+    {
+      "term": "Taquipnea",
+      "definition": "Es el aumento de la frecuencia respiratoria por encima del rango esperado para edad y situación."
+    },
+    {
+      "term": "Bradipnea",
+      "definition": "Es la disminución de la frecuencia respiratoria por debajo del rango esperado."
+    },
+    {
+      "term": "Apnea",
+      "definition": "Es la ausencia temporal o mantenida de respiración."
+    },
+    {
+      "term": "Disnea",
+      "definition": "Es la sensación de dificultad o falta de aire y puede existir aunque la frecuencia respiratoria no sea muy alta."
+    },
+    {
+      "term": "Tensión arterial",
+      "definition": "Es la presión que ejerce la sangre sobre las arterias y se expresa mediante valores sistólico y diastólico en milímetros de mercurio."
+    },
+    {
+      "term": "Tamaño del manguito de tensión",
+      "definition": "Debe adaptarse al perímetro del brazo porque uno pequeño sobreestima y uno grande puede infraestimar la presión."
+    },
+    {
+      "term": "Posición para medir la tensión arterial",
+      "definition": "El paciente debe reposar, no hablar y mantener espalda y brazo apoyados con el manguito a la altura del corazón."
+    },
+    {
+      "term": "Presión arterial sistólica",
+      "definition": "Corresponde a la presión máxima durante la contracción ventricular."
+    },
+    {
+      "term": "Presión arterial diastólica",
+      "definition": "Corresponde a la presión mínima durante la relajación ventricular."
+    },
+    {
+      "term": "Diagnóstico de hipertensión",
+      "definition": "No debe basarse en una medición aislada salvo urgencia; requiere técnica correcta y confirmación conforme a la guía clínica."
+    },
+    {
+      "term": "Gráfica de hospitalización",
+      "definition": "Permite registrar y visualizar la evolución de constantes, balance y otros parámetros a lo largo del ingreso."
+    },
+    {
+      "term": "Registro de constantes",
+      "definition": "Debe realizarse de inmediato, con fecha y hora, unidad correcta y comunicación de valores anómalos o cambios relevantes."
+    },
+    {
+      "term": "Balance hídrico",
+      "definition": "Compara entradas y salidas de líquidos durante un período definido, normalmente veinticuatro horas."
+    },
+    {
+      "term": "Balance positivo y negativo",
+      "definition": "Es positivo cuando las entradas superan las salidas y negativo cuando las salidas son mayores, siempre interpretándolo clínicamente."
+    }
+  ]
+}
