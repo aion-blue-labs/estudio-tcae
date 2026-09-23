@@ -21,7 +21,7 @@ def hid(text):
     return f"q{value}"
 
 
-assert len(data) == 2627
+assert len(data) == 2905
 assert len({hid(q["q"]) for q in data}) == len(data), "Colisión de identificadores"
 assert all(len(q.get("opts", [])) == 4 for q in data)
 assert all(len(set(q["opts"])) == 4 for q in data)
@@ -30,6 +30,13 @@ assert all(q.get("expl", "").strip() for q in data)
 assert all(sum(q.get("sim") == f"T{n}" for q in data) == 50 for n in range(1, 32))
 assert sum(q.get("sim") == "IR" for q in data) == 12
 assert sum(q.get("sim") == "I" for q in data) == 38
+pdf_questions = [
+    q for q in data
+    if re.fullmatch(r"PDF(?:[1-9]|[12]\d|30)", str(q.get("sim", "")))
+]
+assert len(pdf_questions) == 278
+pdf_answers = Counter(q["correct"] for q in pdf_questions)
+assert max(pdf_answers.values()) - min(pdf_answers.values()) <= 1
 assert "const KEY = 'tcae_progress_v3'" in html
 
 html_version = re.search(r'const VERSION = "([^"]+)";', html).group(1)
