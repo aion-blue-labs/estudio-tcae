@@ -6,11 +6,12 @@
 //     a cache so entra em jogo offline). A v4 usava cache-first e por isso a
 //     PWA instalada ficou presa numa versao antiga com respostas erradas.
 //   * icones/manifest -> cache-first (nao mudam e sao pesados).
-const VERSION = '20260923-1531';
+const VERSION = '20261116-seris-2';
 const CACHE = 'tcae-' + VERSION;
 const ASSETS = [
   './',
   './index.html',
+  './seris-2025.js',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png',

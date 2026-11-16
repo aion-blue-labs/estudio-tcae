@@ -1,7 +1,7 @@
 {
-  "name": "TCAE Pro · Preparación SERGAS",
+  "name": "TCAE Pro · SERGAS e SERIS",
   "short_name": "TCAE Pro",
-  "description": "Practica el examen TCAE del SERGAS: 2905 preguntas con corrección al momento, repaso espaciado y simulacros cronometrados.",
+  "description": "Prepara TCAE del SERGAS y del SERIS con progreso separado, corrección al momento, repaso espaciado y simulacros.",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",
